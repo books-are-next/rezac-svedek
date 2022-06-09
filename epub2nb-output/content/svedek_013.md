@@ -3,8 +3,6 @@ title: KAPITOLA DEVÁTÁ Druhá měsíčná noc
 contentType: prose
 ---
 
-  
-
 Večer přijde rychle po tom bouřlivém odpoledni. Studený vzduch protahuje ulicemi, zátopy se vsákly a vytratily, jen místy ještě blýskají osamělé kaluže v proláklinách dlažby. Zbytky dusna se poschovávaly ve zdech bytů a všechna okna v Bytni jsou zotvírána, aby je vydala nemilosrdnému nepříteli. Chladné vůně bloudí městem jako polibky zrazené láskou, jež pozbyla žáru.
 
 Z černavých par daleko na východním obzoru se vznese veliký rudý měsíc. Stoupá rychleji, než tma stačí prosakovat oblohou, a jeho tvář žloutne a bělá. Rozptýlená mračna, přetahující po nebi jako čety ztracené svému hlavnímu voji, jsou jím neodolatelně přitahována. Vrhají se na tu pokladnici, přeplněnou zářícím kovem, ale vítr je žene dál a měsíc vyplouvá neporušený z jejich dravých nájezdů, aby pokračoval ve své klamavé hře.
@@ -269,4 +267,4 @@ Jen mlýny ženských jazyků melou zrno dějů velkých i malých a mochnovsk
 
 * * *
 
-[12](./resources/undefined) Strnulost (např. při hypnóze, epilepsii apod.). Pozn. red.
+_[12](./resources/undefined) Strnulost (např. při hypnóze, epilepsii apod.). Pozn. red._

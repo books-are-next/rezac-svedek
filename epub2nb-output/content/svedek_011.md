@@ -3,8 +3,6 @@ title: KAPITOLA SEDMÁ Zvon spravedlivého
 contentType: prose
 ---
 
-  
-
 V prvním týdnu zářijovém se usnesla městská rada byteňská přijmout dar neznámého rodáka, usazeného ve Stockholmu, a přistoupit na všechny podmínky, které jej provázely.
 
 Starosta měl příčinu k veselí, vtip se mu vydařil a už nic nemůže zabránit, aby strašidelný byteňský chudobinec nebyl smeten z katastrálního povrchu tohoto ctihodného města a nahrazen lidským obydlím, podepřeným trvalou nadací, aby ti, kdo v něm budou bydlet, mohli jej také vždy udržet ve stavu člověka důstojném. Starosta se mohl smát, nebýt toho, že poslední dobou mu vůbec nebylo do smíchu z příčin, jež tajil před světem ještě úzkostlivěji než inkognito stockholmského sládka. V „Chudějovickém kraji“ vyšla báseň byteňského poštmistra, nadepsaná Co Bůh spojil… a pojednávající o „srdci, jež lásky citem hoří i v dáli, v pásmu ledných moří“. V témž čísle byla ve zprávách otištěna noticka o ušlechtilém činu neznámého dárce, o rozhodnutí městské rady (s příslušným ironickým komentářem o tom, jak se dlouho protahovalo), a nakonec byla připojena jedovatá poznámka o lidech, kteří mají k městu daleko blíž a vděčí mu za víc než za to, že se v něm narodili a vychodili obecnou školu, a přece by se nikdy nedovtípili. Starosta poznával v tomto povšechném náčrtu sebe a v jeho stylizaci obecního tajemníka, jehož denním – burzovním – zprávám o stavu jeho cukrovky naslouchával s takovou ochotou. Vida, a ten človíček ho nenáviděl. Jak se mu to asi žilo zle a nezlepšilo by se to, ani kdyby se mu dostalo celé dotace pro chudobinec. Starosta si s uzarděním vzpomněl na myšlenky, které v něm budíval tajemníkův ohryzek. Vtip se rozvinul opravdu znamenitě, ale stále bylo jaksi méně důvodů k smíchu.
@@ -441,6 +439,6 @@ A soudce mlčky přikývne, protože úsilí, aby donesl své břímě, spotře
 
 * * *
 
-[9](./resources/undefined) Zapíjení uzavřené koupě. Pozn. red.
+_[9](./resources/undefined) Zapíjení uzavřené koupě. Pozn. red._
 
-[10](./resources/undefined) Neotesanec, balík. Pozn. red.
+_[10](./resources/undefined) Neotesanec, balík. Pozn. red._

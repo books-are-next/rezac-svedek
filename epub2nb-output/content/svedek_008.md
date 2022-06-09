@@ -3,8 +3,6 @@ title: KAPITOLA ČTVRTÁ Starostovo odpoledne
 contentType: prose
 ---
 
-  
-
 V pondělí, týden po zahradní slavnosti u starostů, jež se skončila, až na několik skřípavých pazvuků, hodnocených nyní po holičských dílnách, v kupeckých krámech, po hospodách i při ranním nákupu na zelném trhu, bez význačnějších rušivých příhod, v pondělí tedy, týden poté, vyjela si paní Kateřina Nolčová na svůj obvyklý měsíční nákup do Chudějovic. Starosta zůstal doma, neboť ji doprovázel jenom výjimečně. Obcházení po krámech jej nudilo a paní Kateřina se cítila šťastnější, mohla-li slídit sama po výhodných koupích. Ač nebyla ani zdaleka lakotivá, ba ani ne šetrná tím prostoduchým škudlivým způsobem měšťanských žen, patřila přece jen k vyznavačkám oné ryze ženské rozkoše, jež nachází ukojení v objevování levnějších pramenů.
 
 Ponechán sám sobě starosta nemá doma stání. Dopoledne mu uběhne rychle; štípá hodinku dříví, vykoupe se, nasvačí a jde na radnici. Probere s obecním tajemníkem rozhodnutí městské rady z poslední schůze a věci, které jí bude třeba předložit na schůzi příští, pročte a podepíše, co mu tajemník dá k podpisu, pohovoří s ním o přípravách na stavbu nového skladiště pro obecní mlátičku a vyslechne poslední zprávy z cukerní burzy, jak tomu říká. Tajemník trpí cukrovkou a neopomine nikdy po lékařské prohlídce oznámit svému představenému vzestup nebo pokles promile a provést rozbor hospodářské situace, jež k tomu vedla, to znamená vylíčit, jak zachovával dietu v posledním týdnu, případně jakých poklesků se vůči ní dopustil. Snad si starosta zavolá ještě Tlachače, aby vzpružil svou mysl, umdlenou poněkud tímto rozhovorem; ale pak dopoledne nemilosrdně vystoupí na radniční věž, vybere z jejích hodin, co si nastřádalo, a rozhodí bohatýrským gestem po dlažbě náměstí dvanáct stříbrných. Zvon děkanského chrámu se vylekaně probudí, a než se mu srdce uklidní, přidá se i stříbrohlásek staré svatováclavské kaple, skryté pod korunami staletých líp na třetím byteňském náměstíčku před školou. S největší pravděpodobností se ozve hlasitě i Tlachačův žaludek, který je neobyčejně citlivý na všechny úkazy, označující dobu jídla. Nedá se nic dělat, starosta musí vzít klobouk a jít domů přes tichnoucí náměstí, kde potkává už jen služky, učedníky a odrůstající děcka, spěchající se sklenicemi a džbánky piva k domovům, a odkud se asi tak na hodinu vytratí všechen život, ponechávaje místo slunci a kašně, aby v klidu rozpřádaly svůj rozhovor, lidem nesrozumitelný.
@@ -469,4 +467,4 @@ Havelok zatmí světlý obdélník dveří a pak z něho vypadne jak obraz z 
 
 * * *
 
-[5](./resources/undefined) Průvodce. Pozn. red.
+_[5](./resources/undefined) Průvodce. _Pozn. red.__

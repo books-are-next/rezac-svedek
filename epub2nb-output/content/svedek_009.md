@@ -3,8 +3,6 @@ title: KAPITOLA PÁTÁ Nepřekročitelná hranice
 contentType: prose
 ---
 
-  
-
 Otevřeným oknem proudí do světnice vůně srpnového rána a počíná si tu jako fretka, jež byla puštěna do jezevčího doupěte. Slídí z kouta do kouta a štve odtud ztuchlý pach noci. Nejtek si zalezl na židli k oknu, dopíjí zbytek černé kávy (ta bílá brynda je zrovna tak dobrá pro ženské) a kouří cigaretu. Aby se dostal na své místo, musí se protáhnout nízkou mezerou mezi čelem postele a rohem stolu, postaveného před oknem. Tady sedá v létě nejraději, přímo u pramene čerstvého vzduchu a z cesty oběma ženským, jež se pletou jedna druhé, jak stelou postele, zametají to málo, co zbývá z podlahy mezi nábytkem, a myjí nádobí. Nad jednou z postelí visí kříž. Jeho břevna jsou jakoby upletena z listů vypálených do dřeva, ale z porcelánových údů Ukřižovaného vypadávají hřebíky, takže většinu času visí za jednu ruku. Panna Maria na protější stěně v rámu s přesahujícími konci a pod sklem, prasklým klikatou čarou, shlíží barvotiskově vlídně na své utrpení. Rozhrnula si na prsou nebesky modré roucho a ukazuje oblé, karmínové srdce, věnčené září a trnovou korunou a protknuté sedmi stejnými mečíky. Od několika trnů kanou krůpěje krve, mečíky nezpůsobily viditelného zranění.
 
 Zčernalá mucholapka splývá od stropu nad malou plotýnkou, zasazenou do rohu světnice vedle dveří. Božka se jí uhýbá navyklým pohybem hlavy, když odkládá na krůvek umyté talíře, hrnky a lžíce. Má na sobě šedé bavlněné šaty, potištěné tmavým drobným vzorkem, metr té látky za tři koruny i u Harazima, který má v Bytni monopolní postavení. Přepásala se zástěrou, a jak se shýbá nad dřez, postavený na nízké stoličce, její bosé nohy svítí v tom šeru u plotny bělostnou nahotou až vysoko nad podkolení. Když tam Nejtek pohlédne přes hubené boky své ženy, která klečíc vytírá vlhkým hadrem pod postelí, zatne volnou pěst a div nezasykne, jako by se připálil. Odvrátí raději hlavu a dívá se do modra srpnového rána, do nekonečně hlubokého a nekonečně rozlehlého modra. A obruč úzkosti mu sevře prsa. To ze života, do kterého byl obléknut, ze života příliš úzkého pro všechno, čeho by se mu chtělo. Nadýmej a naparuj se v něm, jak chceš, trhej a cloumej jím, snad na tobě praskne, ale nového se ti nedostane.
@@ -367,4 +365,4 @@ A vyběhne plačíc z úřadovny.
 
 * * *
 
-[6](./resources/undefined) Kabát z listru, lehké lesklé vlněné látky. Pozn. red.
+_[6](./resources/undefined) Kabát z listru, lehké lesklé vlněné látky. _Pozn. red.__
