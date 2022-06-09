@@ -3,8 +3,6 @@ title: KAPITOLA DRUHÁ Bratři
 contentType: prose
 ---
 
-  
-
 Lítá tu jediná moucha, ale postačí. Dostala se sem otevřeným oknem a teď je nemůže najít. Zmehla si[2](./resources/undefined), že cesta ven vede tím druhým, zavřeným. Zlezla už, co se dalo zlézt, a ohledala bedlivě svým sosákem, nevynechala ani soudcův stůl. Soudce ji chvíli pozoroval, jak smýčí po papírech, pokračujíc v beznadějném průzkumu místních životních podmínek. Pak mávl rukou a odehnal ji.
 
 – Vša, muško, řekl a usmál se. Usmíval se vždycky, kdykoli se mu o samotě nahodilo zahánět mouchy. Usmíval se slovům i posunku, jichž při tom používal, i vzpomínce na matčina otce, po němž je zdědil.
@@ -323,10 +321,10 @@ V dubové polici vedle psacího stolu spí za těžkou jelenicovou záclonou kn
 
 Čte a věty se mu člení v slova a slova hynou opuštěna svými druhy. Bloudí chodbami jeho mozku, jako by to byl dům bez oken, každou chvíli narážejí na dveře, k nimž nemají klíče, a křičí hrůzou, dovolávajíce se světla, pomoci, osvobození. Zmírají každé jinde a statkářovy myšlenky zakopávají na svých cestách o jejich kosti, o vyschlé mumie slov, jimž nedovedou vdechnout život. Vlekou je bezradně s sebou, dokud je někde neztratí nebo nenaleznou nové. Ale často se jich polekají a rozpadnou se vedle nich. Pak není už slyšet nic než plíživé šelesty, a statkář, lokty na okraji stolu a ruce na uších, oči vytřeštěné, ale nevidoucí, čeká, jakou dnes na sebe vezmou podobu. Proč ti uhynul už třetí vrh prasátek ve čtvrt roce? Co tě napadlo vysít kmín na Shoně? Na Shoně kmín, chacha. Proč je prázdná stáj pro plemeníky? Pšenici sbírá po zrníčku, desetitisíce se mu sypou z hrsti. Neudržíš! Neudržíš! Dal mrkev na Pláňova a vyhnila mu. Čtyry strychy mrkve. Co je to tu za smrad, lidičky? To Pepek Dastychů, pan statkář, sklízí mrkev. Čtyry strychy mrkve.
 
-Na Pláňovech mrkev hnije,  
+_Na Pláňovech mrkev hnije,  
 Pepek Dastych se v ní ryje.  
 Ryje se v ní jako prase,  
-zaseje ji na rok zase.
+zaseje ji na rok zase._
 
 – Kušte!
 
@@ -358,6 +356,6 @@ Na dvoře stařík Balchán přičapne k zemi a přitiskne si dlaně na uši.
 
 * * *
 
-[2](./resources/undefined) Usmyslila si. Pozn. red.
+_[2](./resources/undefined) Usmyslila si. _Pozn. red.__
 
-[3](./resources/undefined) Pantofle s dřevěnou podrážkou a s horní částí dřevěnou nebo koženou. Pozn. red.
+_[3](./resources/undefined) Pantofle s dřevěnou podrážkou a s horní částí dřevěnou nebo koženou. _Pozn. red.__

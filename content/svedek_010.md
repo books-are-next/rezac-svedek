@@ -3,8 +3,6 @@ title: KAPITOLA ŠESTÁ Všechny cesty vedou na náměstí
 contentType: prose
 ---
 
-  
-
 Emanuel Kvis bloudí a nenachází klid. Podzimní deště vyslaly už své první harcovníky, ale ani ty ho nedovedou udržet doma. Po nočním lijáku drobně mží, zelináři na byteňském náměstí napjali plachty nad svými stánky a nejklábosivější ženské se uchylují na kus řeči do průjezdu hotelu U Koníčka. I Jeník Harazim opustil své vyhlídkové místo na schůdcích před krámem a stojí za sklem dveří, odkud může zahlédnout Lídu Dastychovou, kdyby šla kolem. Život městečka se ovšem nezastavil pro trochu mrholení, těla, havěť i pole chtějí své, jenomže lidé se pohybují rychleji a nepostávají tolik jako dříve.
 
 Proč ten dědík nesedí v takovém počasí doma? ptají se navzájem povídalky v průjezdu u Koníčka. Emanuel Kvis však pochoduje náměstím sem a tam, nedbaje zvídavých pohledů ani slov, jež k němu někdy bezostyšně dolehnou. Zestárnul v posledních dnech, není to vidět ani tak na jeho tváři, jako na držení těla a na chůzi, jež se stala ještě trhanější. Nohy se mu zdvíhají a dopadají na dlažbu jakoby ovládány nějakým mechanismem, složeným ze samých ozubených koleček. Havelok na něm visí a zdá se příliš těžký pro jeho ramena, světle šedivý klobouk ztmavěl deštěm, lakové střevíce jsou skryty v pleskavých galoších.
@@ -467,6 +465,6 @@ Ale pak pohlédne do Kvisových očí, otevře se mu černě pod nohama a hlava
 
 * * *
 
-[7](./resources/undefined) Z bronzu. Pozn. red.
+_[7](./resources/undefined) Z bronzu. Pozn. red._
 
-[8](./resources/undefined) Hazardní karetní hráč. Pozn. red.
+_[8](./resources/undefined) Hazardní karetní hráč. _Pozn. red.__

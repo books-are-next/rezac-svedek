@@ -3,8 +3,6 @@ title: KAPITOLA OSMÁ Hořící strom
 contentType: prose
 ---
 
-  
-
 Nemáme přímých svědectví, na nichž bychom postavili vylíčení toho, co se odehrávalo dále ve statku Dastychových, když tam soudní rada donesl svého bezvědomého bratra. Lucku přivedla domů Lída, která naštěstí zmeškala celou událost, protože se toulala v polích za městem a odříkávala nějakému jeřábu, topolu nebo bříze roli, na jejíž vyjádření doroste tak někdy po deseti letech. Uklidněná kobylka se popásala po mezích, a protože mezi ní a dívkou bylo staré přátelství, utvrzené mnoha kostkami cukru a krajíci chleba, následovala ji pokorně. Lída ovšem nebrala samozřejmě, že Lucka, která měla být v tuto chvíli uvázána u žlabu, se potlouká sama tak daleko za městem, a její zneklidnění stouplo, když procházela ulicemi a narážela na skupiny rozčileně rozprávějících lidí, kteří zmlkali, jakmile ji zahlédli. Nikdo k ní však nepřistoupil, aby jí pověděl, co se stalo, a ona neměla k nikomu z nich tak blízko, aby se sama dotázala.
 
 Vzrušený a žvatlající stařík Balchán jí první vběhl do cesty, když vstoupila s Luckou do dvora. Pšukal volným koutkem úst, až mu sliny odletovaly.
@@ -273,4 +271,4 @@ Nejtek podoben jí podklesne uprostřed druhého kroku a padne tváří do mokr
 
 * * *
 
-[11](./resources/undefined) Suchý horký vítr. Pozn. red.
+_[11](./resources/undefined) Suchý horký vítr. Pozn. red._

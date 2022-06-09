@@ -3,8 +3,6 @@ title: KAPITOLA TŘETÍ Zahradní slavnost
 contentType: prose
 ---
 
-  
-
 Muzika vyhrává a slunce, procezené korunami stromů, padá na trávník. Křídlovka stoupá na špičky a zalká vysoko, až se jí tón roztřepí přepjatou slastí, štěbenec dumlá svou melodii jako kluk cukrovou tyčinku, a když to nejmíň očekáváš, uchichtne se výsměšně, viola se vemlouvá jako milenec v podvečer, pikolka bublá i cvrliká, zmizí a opět se vznese, basa vás drží pohromadě, vy smečko třeštidel a opilců, ale housle, ach housličky, ty můj smutku a opojení, ve vás zpíváme a pláčeme všichni.
 
 Es-tam-tam, es-tam-tam, taá-rára-raá…
@@ -509,4 +507,4 @@ Soudce chvíli mlčí a dívá se zamyšleně na svého společníka. Nemůže 
 
 * * *
 
-[4](./resources/undefined) Špičky prstů. Pozn. red.
+_[4](./resources/undefined) Špičky prstů. Pozn. red._

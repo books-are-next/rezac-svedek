@@ -3,8 +3,6 @@ title: KAPITOLA PRVNÍ Měsíčná noc
 contentType: prose
 ---
 
-  
-
 Ozářena měsícem Byteň spí v otevřené krajině. Bílá věž děkanského chrámu střeží její sen, prostá, čtyřhranná věž, jen tak zhruba omítnutá a krytá šindelovou střechou. A jako by přejímala odraz té věže, noc sama se zdá všecka bílá, taková jasná noc, prosvětlená do všech koutů, rozechvělá a vábivá, jen stěží skrývající trosky svého tajemství ve vržených stínech. Červen se prochází po lukách a zahradami, a když dechne, zavoní seno a fialy.
 
 Za takové noci je ovšem škoda svítit a městská rada už dávno rozhodla v tom smyslu o pouličním osvětlení. Obušek za zády, strážník Tlachač se kolébá za svým naditým stínem. Panečku, to je chlap, kterého tu tlačí před sebou po hrbolatém dláždění. I narůstá sám v sobě do ramenaté důležitosti strážce veřejného pořádku a bezpečnosti svých bližních. Ale měsíčná noc a červen si dovedou pohrát i se strážníkem, který už překročil padesátku a má se za prvního v městě hned po starostovi. Připomene mu dětská léta, kdy jako kluci se pokoušívali šlápnout na hlavu svému vlastnímu stínu, a strážník, jak se tak šine po opuštěném a mírně svažitém náměstí, oživeném jen šumem a zvoněním kašny, podlehne bláznivému popudu. Zdvihne ruku, zamává obuškem, tím důrazným odznakem své moci, a vypadne za svým stínem. Ale stín poskočí dopředu, takže se hlava rázem vzdálí z dosahu a opakuje Tlachačovy posunky s tak výsměšnou pitvorností, že strážník ihned ustane ve svém počínání a rozhlédne se polekaně kolem sebe.
@@ -375,8 +373,8 @@ Dnes tu však stojí Teršík zkoprnělý nad nákladem, který se mu urodil na 
 
 Něco se bělá u postranního držadla kufru. Jmenovka. Alespoň ti poví, který čert harcuje s takovou tíhou. Otočí si jmenovku, skloní se nad ni a slabikuje si v měsíčním světle jméno, které je na ní napsáno velkým, školácky přesným a kaligraficky vykrouženým písmem:
 
-Emanuel Kvis  
-Byteň
+_Emanuel Kvis  
+Byteň_
 
 – Kvis? opakuje si Teršík polohlasně přečtené jméno, protože jako většina lidí pracujících osaměle v noci je zvyklý občas na sebe promluvit nahlas, aby přece slyšel nějaké to slovo a víceméně se přesvědčil, že je vůbec ještě naživu. Kvis? Byteň? Jaktěživ sem tady takový méno neslyšel. To nemůže bejt nikdo zdejší.
 
@@ -464,4 +462,4 @@ Psi už se této noci neutiší; jejich štěkot vybuchuje přes tu chvíli, jak
 
 * * *
 
-[1](./resources/undefined) Člověk bez stálého zaměstnání, hanl. povaleč. Pozn. red.
+_[1](./resources/undefined) Člověk bez stálého zaměstnání, hanl. povaleč. Pozn. red._
