@@ -3,6 +3,8 @@ title: KAPITOLA ČTVRTÁ Starostovo odpoledne
 contentType: prose
 ---
 
+<section>
+
 V pondělí, týden po zahradní slavnosti u starostů, jež se skončila, až na několik skřípavých pazvuků, hodnocených nyní po holičských dílnách, v kupeckých krámech, po hospodách i při ranním nákupu na zelném trhu, bez význačnějších rušivých příhod, v pondělí tedy, týden poté, vyjela si paní Kateřina Nolčová na svůj obvyklý měsíční nákup do Chudějovic. Starosta zůstal doma, neboť ji doprovázel jenom výjimečně. Obcházení po krámech jej nudilo a paní Kateřina se cítila šťastnější, mohla-li slídit sama po výhodných koupích. Ač nebyla ani zdaleka lakotivá, ba ani ne šetrná tím prostoduchým škudlivým způsobem měšťanských žen, patřila přece jen k vyznavačkám oné ryze ženské rozkoše, jež nachází ukojení v objevování levnějších pramenů.
 
 Ponechán sám sobě starosta nemá doma stání. Dopoledne mu uběhne rychle; štípá hodinku dříví, vykoupe se, nasvačí a jde na radnici. Probere s obecním tajemníkem rozhodnutí městské rady z poslední schůze a věci, které jí bude třeba předložit na schůzi příští, pročte a podepíše, co mu tajemník dá k podpisu, pohovoří s ním o přípravách na stavbu nového skladiště pro obecní mlátičku a vyslechne poslední zprávy z cukerní burzy, jak tomu říká. Tajemník trpí cukrovkou a neopomine nikdy po lékařské prohlídce oznámit svému představenému vzestup nebo pokles promile a provést rozbor hospodářské situace, jež k tomu vedla, to znamená vylíčit, jak zachovával dietu v posledním týdnu, případně jakých poklesků se vůči ní dopustil. Snad si starosta zavolá ještě Tlachače, aby vzpružil svou mysl, umdlenou poněkud tímto rozhovorem; ale pak dopoledne nemilosrdně vystoupí na radniční věž, vybere z jejích hodin, co si nastřádalo, a rozhodí bohatýrským gestem po dlažbě náměstí dvanáct stříbrných. Zvon děkanského chrámu se vylekaně probudí, a než se mu srdce uklidní, přidá se i stříbrohlásek staré svatováclavské kaple, skryté pod korunami staletých líp na třetím byteňském náměstíčku před školou. S největší pravděpodobností se ozve hlasitě i Tlachačův žaludek, který je neobyčejně citlivý na všechny úkazy, označující dobu jídla. Nedá se nic dělat, starosta musí vzít klobouk a jít domů přes tichnoucí náměstí, kde potkává už jen služky, učedníky a odrůstající děcka, spěchající se sklenicemi a džbánky piva k domovům, a odkud se asi tak na hodinu vytratí všechen život, ponechávaje místo slunci a kašně, aby v klidu rozpřádaly svůj rozhovor, lidem nesrozumitelný.
@@ -145,6 +147,10 @@ Starosta nepotřebuje křičet, má ve svém rejstříku tóny, při nichž by l
 
 Jde, ani ho nenapadá, aby se ohlédl. Hůl je lepkavá od tulákovy usmolené dlaně. Rozmáchne se a odhodí ji dlouhým obloukem do paseky. V protějším vysokém lese potřeští se sojka. Její křik se vzdaluje v korunách borovic. Ta musí taky být v každé legraci za kvedlačku.
 
+</section>
+
+<section>
+
 Děkan Brůžek brousí po farské zahradě. Talárek pověsil někde na kliku a klobouk zapomněl v kůlně, chodí tu v kazajce z hrubého lněného plátna, košili u krku rozhalenou. Žně už máme za sebou, ale tady na stromech nám dozrává jiná úroda. Děkan postojí před úly a pozoruje hemžení na česnech. Ta poslední, nejsladší snáška se začala. Léto ještě žije a v lesích kvete vřes.
 
 Větev panenského štěpu se sklání nad úly, obalená a těžká drobnými plody, silně už zardělými. Děkan se skloní a zdvihne několik padanek, jimž červ ukrátil pobyt na rodné větévce. Kněz je převaluje v dlani a propadá nad nimi teskným úvahám, proč toto jablíčko našich předků, tak půvabné, vonné a plné důvěrně známé domácké chuti, je rok od roku menší a zakrslejší, jak zachovávajíc chuť, vůni i barvu, klesá velikostí k plodům pláňat, jak dělej co dělej marně se snažíš tomu zabránit, jako by se chtělo nadobro vytratit z našich zahrad a stolů, z našeho života.
@@ -256,6 +262,10 @@ Starosta se zasměje statečně a silně.
 – Mějte si svou pravdu a nechť vás sílí. Je mi to vhod. Svalil jsem na vás dost velkou tíži.
 
 Kněz se za ním dívá, jak se vzdaluje po svahu Kostelní ulice; sklonil hlavu po několika krocích a čte zjevně písmo svých myšlenek na hrbolatém dláždění. Z nízké lavičky vedle dveří chudobince vstane rváč Nejtek a zmizí v černém jícnu té zchátralé barabizny. Neodpustil ještě děkanu Brůžkovi a vyhýbá se mu s jistou okázalostí, která v knězi budí výčitky a lítost, ale Nejtkovi neposkytuje uspokojení.
+
+</section>
+
+<section>
 
 Od severu je asfaltová silnice vystřelena v přímce k Bytni. Střelce, který ji zamířil, pohltila dálka. V stromořadí se střídají břízy a jeřáby, staré vzrostlé stromy s mladíky, chvátajícími dorůst jejich výše a mohutnosti, a s hůlkovitými výrostky loňské nebo předloňské sadby. Podzimní vichřice si v něm vybírají příliš často svou daň právě mezi těmi nejsilnějšími a sťaté koruny padají na asfalt nebo do polí. Stromy na této pláni dospívají zralosti, ale hynou povětšině v mužném věku hrdinskou smrtí v zápase s živly.
 
@@ -468,3 +478,5 @@ Havelok zatmí světlý obdélník dveří a pak z něho vypadne jak obraz z 
 * * *
 
 _[5](./resources/undefined) Průvodce. _Pozn. red.__
+
+</section>

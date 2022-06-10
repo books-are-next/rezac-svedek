@@ -3,6 +3,8 @@ title: KAPITOLA DEVÁTÁ Druhá měsíčná noc
 contentType: prose
 ---
 
+<section>
+
 Večer přijde rychle po tom bouřlivém odpoledni. Studený vzduch protahuje ulicemi, zátopy se vsákly a vytratily, jen místy ještě blýskají osamělé kaluže v proláklinách dlažby. Zbytky dusna se poschovávaly ve zdech bytů a všechna okna v Bytni jsou zotvírána, aby je vydala nemilosrdnému nepříteli. Chladné vůně bloudí městem jako polibky zrazené láskou, jež pozbyla žáru.
 
 Z černavých par daleko na východním obzoru se vznese veliký rudý měsíc. Stoupá rychleji, než tma stačí prosakovat oblohou, a jeho tvář žloutne a bělá. Rozptýlená mračna, přetahující po nebi jako čety ztracené svému hlavnímu voji, jsou jím neodolatelně přitahována. Vrhají se na tu pokladnici, přeplněnou zářícím kovem, ale vítr je žene dál a měsíc vyplouvá neporušený z jejich dravých nájezdů, aby pokračoval ve své klamavé hře.
@@ -47,6 +49,10 @@ Dlažba ještě vlhká po odpolední průtrži se blýská postříbřena a vyl
 
 Ten zášleh veselí je rychle vystřídán prudkou skleslostí a starosta se otočí už bez další řeči, a stisknuv místo pozdravu strážníkovu pravou paži, vykročí k domovu. Tlachač salutuje a dívá se za ním, jak mizí ve vratech svého domu. Něco ho nutká, aby šel za ním a řekl: Pane, jsem s vámi, děj se co děj. Je to ovšem nesmysl, protože copak může hrozit takovému boháči v jeho pevném domě, ale koneckonců je to také jen člověk, a lidé mají stát jeden při druhém. A Tlachač, aniž ví jasně proč, se rozhodne, že dnes v noci se tady z toho chodníku před starostovými nehne.
 
+</section>
+
+<section>
+
 Dvě jablka leží na malém stolku u okna: veliká, zlatožlutá, červeně žíhaná parména a našedlé, hranaté jablko kdoulové. Ostatně jakápak řeč o barvách ve tmě tohoto pokoje, kam jediná trocha světla je vrhána měsícem rozsvícenou zdí protějšího domu. O těch dvou plodech vypráví spíše jejich vůně. Avšak ubohá parména, její čistá svěží vůně je pohlcována těžkou vůní kdoulí, jíž je pokoj přeplněn. Nač ta dvě jablka? Kdo ví. Snad jsou v Kvisovi jakýmsi podobenstvím, snad mu představují dva ženské světy, mezi nimiž bloudí.
 
 Je to vyhaslý, slabý muž, který tu sedí v křesílku, obráceném k oknu, s očima upřenýma na ty dva plody. Přestál těžký záchvat dnes odpoledne, krátce předtím, než vypukla bouře, v tu chvíli, kdy paní Kateřina propadla mdlobě. Dusil se, strhován do hlubin, v nichž už nerozeznával nic než rudé a žluté víření, kde slyšel jen temné dunění podsvětních vodopádů času. Chtěl to žít, ale bylo to nad jeho síly. Když věděl zase plně o sobě, shledal, že leží na zemi, mezi pokácenými židlemi, s pěnou na rozkousaných rtech. Snad to bylo jen tím, že od rána hladověl v tom dusném dni. Snědl několik jablek a to ho přivedlo na myšlenku, aby si postavil před sebe ty dva plody: kdouli a parménu, jeden vonící starobou uplynulého času, druhý plný svěžesti, chuti a šťáv života. A nyní čeká. Neví, co mu přinese noc, něco je v ní skryto, ale nemůže se toho zmocnit, dokud se to samo nedalo v pohyb. Je sláb, kdo ví, jestli unese, co se na něho valí, neuhasitelná žízeň v něm však neustává hořet.
@@ -58,6 +64,10 @@ Viděl vracet se domů Nejtka, promočeného na kůži a zplihlého v ubohý l
 Seděl nehnutě, sklíčen strašným poznáním. Tady se k němu dobýval skutečný život, čistý, mladý a planoucí, a on mu nemohl otevřít. Skryt za mřížkovanou záclonou díval se za ní, jak odchází, otáčejíc se stále po domku, do něhož v ten osudný den skládala nejasné naděje a který jí na její volání odpověděl mlčením. Chtěl rozrazit zavřené okno, vyklonit se za ní a vykřiknout: Pojď sem, děvčátko, vrať se, slituj se nad mou bídou, nad mou prázdnotou a opuštěností. Nesmíš se mě bát, jsem jen troska člověka, jen jeho skořápka, nikdy jsem nebyl nic víc. Nežil jsem, slyšíš, a to je nekonečná muka. Položím si hlavu do tvého klína, usnu dýchaje tvou vůni, vůni zlaté parmény, červeně žíhané sluncem, budu spát hloub a hlouběji, až odtud odejdu branou té vůně, vůně tvého mládí a života. Ale na ramena mu sedla tíha, jako by se mu o ně opíraly něčí ruce a tiskly ho ke křeslu. Kdoulová jablka zavoněla tak těžce, že nemohl téměř dýchat.
 
 Bílá zeď protějšího domu se rozsvěcuje a hasne, jak oblaka táhnou přes tvář úplňku, vítr duje rovnoměrně a hučí jako splav. Jsi tady, Libuše? Ach ano, vím, že jsi tady. Přišla sis pro podíl na kořisti, ale nepomůžeš mi nést její váhu. Tys mi tedy byla souzena? Ty první a poslední, ty jediná ozvěno mé prázdnoty? Vezmi si tedy svůj díl a odejdi, odkud jsi přišla. Já snad ještě dnes pochopím, co je život, a naučím se mu, jako se jiní učí hře na hudební nástroje, ty však už nemůžeš, a to nás konečně rozdvojí. Slyšíš? Přicházejí. To není tlukot větví rozkymácených větrem, to zní jejich kroky. Dívej se dobře, neboť ty nemůžeš nic jiného, ale mně zbývá ještě naděje. Dnes uvidíš, co dovedu. Jsou to jejich touhy, pravíš? Já se jich zmocním a povedu je k svému cíli. Dnes tito. A pak už mi budou patřit všichni. Slyšíš, všichni!
+
+</section>
+
+<section>
 
 Paní Kateřina není, kde by měla být, neleží ve své široké posteli v ložnici, zatemněné těžkými záclonami. Starosta ji našel procházet se po chodbě v prvém poschodí. Světla byla rozžata, a ona mu vykročila vstříc, drobná a křehká ve svých černých vlněných šatech, zjevně rozradována jeho návratem. Zdálo se mu vůbec, že se rychle vzpamatovala ze své odpolední mdloby a že vypadá mnohem lépe než v posledních dnech. Čte v jeho pohledu výčitky a obavy, ale zavěsí se do něho měkce a přítulně, dříve než je může vyslovit. Vede ho k oknu a starosta se zalyká její vůní a láskou tak, jako když ji poprvé svíral v náručí. Cestou sáhne paní Kateřina po vypínači; světlo zhasne, ale nepromění se ve tmu; zůstane tu cosi jako jeho bledý přízrak, stále jasnější, čím více mu oči přivykají. Mochnovské portréty v něm oživují, neboť toto světlo je víceméně vzpomínkou tak jako ony, čas se v něm obrací a plyne proti spádu řečiště a minulost a přítomnost se nerozeznatelně mísí v jeho víru. Starosta, který nikdy nepřivykl jejich pohledům, vážícím život na vahách posledního poznání, jde ztuhle a zpříma, jako by kráčel k oltáři s nevěstou pod klenbou zkřížených mečů, z nichž každý by nejraději zamířil proti jeho srdci.
 
@@ -103,6 +113,10 @@ Pak se rty opět semknou a obličej se propadne v ještě hlubší bledost a 
 
 Tvář na podušce se zdá přijímat poslední výraz, na němž už nikdy život nic nezmění.
 
+</section>
+
+<section>
+
 Bílá věž děkanského chrámu se rozsvěcuje a hasne, jak oblaka táhnou přes měsíc. Děkan Brůžek ji vidí z okna, u něhož má umístěno klekátko a kříž. Často, když se na ni díval z dalekých vesnic rozptýlených v rovině kolem Bytně, připadala mu jako maják, který má vést vratké lodice myšlenek k jedinému bezpečnému přístavu. Copak tu nebyla vztyčena proto, aby střežila klid celého kraje a vnášela mír a pokoj do všech srdcí? Vzhlíží k ní, jak ji vítr střídavě omílá světlem a stínem, a naslouchá sténání kříže na jejím vrcholku. Chtěl by nést v sobě její čtyřhrannou prostoru a pevnost. Nebylo v něm nikdy pochybností, jenom netrpělivost jím někdy zmítala, že boží řád na zemi se naplňuje příliš zvolna, že zlo je příliš čilé a dobro bezradné a váhavé. Nebyl za ni dostatečně potrestán právě dnes odpoledne? Věděl ihned, proč byla odmítnuta jeho ruka. A tomu člověku bylo přece tolik třeba přátelského stisku a dobrého slova. Celé odpoledne se bouře chechtala tím smíchem, který se v tu chvíli ozval za jeho zády, i teď jej slyší zdvíhat se ze skučení větru. Ponořil se v modlitby, jak nejhlouběji dovedl, ale po všechen ten čas ten smích otřásal střechou domu, a když děkan pozdvihl hlavu, opřenou o sepjaté ruce, viděl, jak věž, bíle zářící, jako by světlo té noci pocházelo z ní, je pohlcována hlubokým stínem a jak mraky dravčí podoby plují na jejím vrcholku.
 
 Občas zaslechne temný pád; to duní zimní jablka, srážená větrem. Hospodář se v něm mísí s knězem v úzkosti o všechno, co je svěřeno jeho péči. Copak není pomoci? Ví o strážci, bez jehož vůle ani to jablko nespadne ze stromu, a ví právě tak dobře, že nemůže nastavit prsa, aby jimi zadržel nárazy větru, pročesávající jeho sad. Ale má zítra při probuzení shledat, že zatímco spokojeně spal, někdo jiný obcházel městem a sklízel, co mu nepatřilo? Jeho tíseň stoupá, modlitby se mu rozpadají v paměti, nenachází už jistotu ani smysl v jejich roztroušených slovech. Neklid ho vyžene z klekátka a nutí ho, aby přecházel pokojem.
@@ -111,7 +125,15 @@ Vzpomene si na onu chvíli závratného poznání, kterou prožil, když stál v
 
 A pak, aniž může dobře říci, jak k tomu došlo, stojí před farou, bez klobouku jako vždy, vítr mu cuchá šedivé vzdorné vlasy, a děkan se ptá sám sebe, co vlastně zamýšlí. V ruce svírá těžkou sukovici, kterou brává s sebou na pěší cesty do vesnic své farnosti, a nedovede si ani vzpomenout, v kterou chvíli a proč ji sňal ze hřebíku na stěně v chodbě. Vítr vane v prudkých nárazech, v koutě mezi kostelem a hřbitovní zdí se točí chumel zvadlého listí v bláznivém bezvýchodném kole, divoká mračna táhnou nad střechami a bílá věž děkanského chrámu se pod nimi tyčí jako nepoddajná hláska božího hradu. Zalit měsíčním světlem, zchátralý chudobinec vyhlíží takřka přívětivě, pokud na něj oblaka nešplíchnou své kalné stíny. Přední část Kvisova domku je zastřena přítmím.
 
+</section>
+
+<section>
+
 Kněz stojí nehnutě a naslouchá. Tato noc, naplněná hukotem, kvílením, vzdechy a šelesty, mu připadá jako jediný vír, který strhl svět do svých závratných kol a tlačí jej ke dnu propasti. Není pochyby, že strhl především jeho. Neboť zapomněl na modlitbu a třímá v ruce hůl. Jeho mysl je rozpálena hrou obrazotvornosti a ztratila svou selskou střízlivost. Zdá se mu, že slyší ze všech stran plíživé kroky neviditelného a nepojmenovatelného zla. Radniční hodiny vyseděly tři vejce, o nichž nevíš, která kukaččí hodina je snesla. Sotva z nich vzlétnou zvoniví ptáci, větrná smečka se na ně vrhne a zadáví je s hladovým zavytím. Kněz se zachvěje až v nejzazším koutě srdce a vykročí po svahu.
+
+</section>
+
+<section>
 
 Jde cizím světem nepochopitelně proměněným hrou světla a stínů a jeho vlastní úzkostí. Zastaví se u vrátek před Kvisovým domkem, nad jehož střechou pluje veliký bílý úplněk, v tu chvíli osvobozený od oblačných nájezdů. Dojem neskutečna tím jen stoupne v knězově mysli a zároveň jakousi její skulinkou pronikne vědomí nesmyslnosti jeho počínání. Nemůže přece vejít do tohoto domku a napřáh­nout hůl na starce, který v něm bydlí a možná právě oddychuje v pokojném spánku. Ale zároveň nenachází v sobě odhodlání, aby se vrátil domů a s modlitbou na rtech ponechal bohu, nač nestačí lidské síly. Opře se o hůl, a upíraje pohled na okno, za nímž, jak ví, sedává ten stařec, luští otázku, co tedy je příčinou jeho zneklidnění, co si s ním zahrálo tak, že se octl takřka proti své vůli, nebo alespoň mimo ni až zde a s holí v ruce. Tma v tom okně, patinovaném odrazem světla z protější zdi, je neprůhledná, a zdá-li se knězi, že se pohybuje a převaluje, bude to jenom tím, jak oblaka jdou opět přes měsíc a zeď za jeho zády se stmívá a znovu se rozsvěcuje. Hledá svou spolehlivou víru, jež dosud vždycky vzdorovala všem nárazům, hledá svůj selský rozum, který nikdy nepodlehl klamům a přeludům, ale obojí ho zradilo. Místo jejich hlasu, domnívá se, že slyší hlas, přicházející z domku. Křaplavý stařecký hlas ve vysoké poloze, který jako by se s někým hádal a křičel ve vzteku a úzkosti. Děkan strne v mrazivém závanu strachu.
 
@@ -233,6 +255,10 @@ Starosta se vrátí na chodbu, ale v jeho srdci teď hude jiná píseň. Přist
 
 – Počkejte na něj a řekněte mu to.
 
+</section>
+
+<section>
+
 A starosta se prochází dál po chodbě a myslí na toho člověka, jeho smrt a procitnutí své ženy. Nu, má myšlenka ho snad nezabila, ačkoli kdyby to bylo mohlo zachránit Kaťu, nelitoval bych toho. Dveře ložnice se otevřou a doktor vyjde vážný, slavnostní a veselý.
 
 – Tak už to máme až na grunt, řekne a přidrží si starostu za oba lokty. Budete tatínkem, kamaráde. Vaše paní je ve třetím měsíci. Teď už se nemusíte bát ničeho. To z ní vyžene všechny záhrobní myšlenky.
@@ -255,6 +281,10 @@ Paní Kateřina se posadí, obejme ho a dlouze políbí.
 
 – A teď, Rudo, jdi a rozhrň ty hrozné černé záclony a zítra je dej strhnout. Tady teď bude bydlet život, tady musí být světlo.
 
+</section>
+
+<section>
+
 Slunce vylezlo na příčku desáté hodiny, ale má jen málo tepla a nestačí prohřívat chladný vzduch, který proudí do byteňských ulic z polí a lesů. Rozsvěcí Byteň, vymytou včerejší bouří a vymetenou nočním větrem. Zelenina a ovoce září ostrými, nelomenými barvami na stáncích před hotelem U Koníčka. Ženy v kabátech a šátcích, s rukama složenýma na životech, namnoze už okrouhlých, rozprávějí o minulé noci. Kvis se vrací do města, nabývá nové podoby a stává se jeho nehynoucím obyvatelem. Nikdo ze zúčastněných nic nevyprávěl, a přece všichni Bytňané vědí všechno. Co se mělo stát s tímto pokojným městem, jakým nebezpečím to uniklo? Víte, že Lída Dastychová utekla včera v noci z města? Odjela půlnočním vlakem. Říkal to Teršík, který jí podával kufřík do vozu. Proč? Prý k divadlu.
 
 Ano, Lída jediná přestoupila nepřekročitelnou hranici své lásky a šla za životem, který obsáhne víc, než co může prožít jediný člověk. Probouzet spící osudy a dávat je druhým. Tak je to? Neboť nikdo nemůže žít sám a všichni toužíme jeden po druhém. Ale co bude dělat Jeník Harazimů? Podívejte se, paní, vždyť on by to s ní byl nevyhrál, když to bylo takovéhle, a staří byli beztak proti tomu.
@@ -268,3 +298,5 @@ Jen mlýny ženských jazyků melou zrno dějů velkých i malých a mochnovsk
 * * *
 
 _[12](./resources/undefined) Strnulost (např. při hypnóze, epilepsii apod.). Pozn. red._
+
+</section>
