@@ -3,6 +3,8 @@ title: KAPITOLA SEDMÁ Zvon spravedlivého
 contentType: prose
 ---
 
+<section>
+
 V prvním týdnu zářijovém se usnesla městská rada byteňská přijmout dar neznámého rodáka, usazeného ve Stockholmu, a přistoupit na všechny podmínky, které jej provázely.
 
 Starosta měl příčinu k veselí, vtip se mu vydařil a už nic nemůže zabránit, aby strašidelný byteňský chudobinec nebyl smeten z katastrálního povrchu tohoto ctihodného města a nahrazen lidským obydlím, podepřeným trvalou nadací, aby ti, kdo v něm budou bydlet, mohli jej také vždy udržet ve stavu člověka důstojném. Starosta se mohl smát, nebýt toho, že poslední dobou mu vůbec nebylo do smíchu z příčin, jež tajil před světem ještě úzkostlivěji než inkognito stockholmského sládka. V „Chudějovickém kraji“ vyšla báseň byteňského poštmistra, nadepsaná Co Bůh spojil… a pojednávající o „srdci, jež lásky citem hoří i v dáli, v pásmu ledných moří“. V témž čísle byla ve zprávách otištěna noticka o ušlechtilém činu neznámého dárce, o rozhodnutí městské rady (s příslušným ironickým komentářem o tom, jak se dlouho protahovalo), a nakonec byla připojena jedovatá poznámka o lidech, kteří mají k městu daleko blíž a vděčí mu za víc než za to, že se v něm narodili a vychodili obecnou školu, a přece by se nikdy nedovtípili. Starosta poznával v tomto povšechném náčrtu sebe a v jeho stylizaci obecního tajemníka, jehož denním – burzovním – zprávám o stavu jeho cukrovky naslouchával s takovou ochotou. Vida, a ten človíček ho nenáviděl. Jak se mu to asi žilo zle a nezlepšilo by se to, ani kdyby se mu dostalo celé dotace pro chudobinec. Starosta si s uzarděním vzpomněl na myšlenky, které v něm budíval tajemníkův ohryzek. Vtip se rozvinul opravdu znamenitě, ale stále bylo jaksi méně důvodů k smíchu.
@@ -24,6 +26,10 @@ Ale někdy, zejména v noci, podlehla přívalu své lásky k němu a pokouš
 Sedávala nyní nejraději na dlouhé zasklené chodbě, kterou odpolední zářijové slunce vyhřívalo okenními tabulemi, ale protože vytrvávala na svém místě i ve dnech podmračných a deštivých, dal jí sem starosta postavit elektrické topné těleso. Vyhlížela do sadu, kde vítr houpal korunami stromů, vjížděl jim do čupřin povýtce ještě zelených, cuchal a rval je svými dravými prsty. Rozvěšeny po celé délce chodby shlížejí na paní Kateřinu bezúsměvné, ztuhlé podoby mochnovských žen a mužů asi sedmi generací. Zdá se, že všechny jsou otočeny směrem k ní a přikazují jí cosi svými nehnutými a neúprosnými pohledy. Jejich oči na ní spočívají, jejich krev v ní koluje a šumí ozvěnou jejich hlasů. Není třeba, aby rozeznávala slova, rozumí smyslu jejich volání. Tady sedí v mochnovském domě, který byl zbudován jako tvrz, v níž rod měl vzdorovat palbě času, narodila se tu, tak jako se tu narodili oni, a měla nést dál štafetu života, ale klopýtla dříve, než ji mohla odevzdat. A přece stále ještě zůstává jejich poslední nadějí, jediným můstkem, po kterém mohou přejít propast zmaru. Ukazují jí všichni jedním směrem, tam, kde se rozpíná chlapcova náruč. Má spojit život se smrtí a uzavřít kruh, aby rod nevyústil v prázdnu.
 
 Křehká, pevná a krásná sedí paní Kateřina v zasklené chodbě mochnovského domu a čeká. Neví, kdy a v jakou chvíli se stane ta nesmírná věc, již nedovede pochopit. Není v ní úzkosti, jen smutek, a když tu sedí sama, už se ani nebrání. Naslouchá větru v korunách stromů. Zní jako výskot skotačících hochů. Děti si hrají. Děti. Velicí, silní, krásní chlapci.
+
+</section>
+
+<section>
 
 Program akademie na počest neznámého dárce byl po několika vzrušených schůzích ochotnického spolku dohodnut a sliboval, že bude vskutku vzornou ukázkou všeho, co byteňští snaživci sklidili na kulturním poli. Měl zahrnovat čísla zpěvní, recitační, hudební i taneční a jednu aktovku.
 
@@ -101,6 +107,10 @@ Okno nad nimi se propadne v překvapené ticho, ale pak zaskřípe, jako by se 
 
 Bože, dost, už to nevydržím, ani o slovíčko déle. Hrát bych to snad dovedla, ale žít to nemohu a nechci. Přitiskne se k Jeníkovi, políbí ho rychle na tvář a utíká, až dlažba chodníku zvoní pod jejími podpatky. Ale pláč je rychlejší a dohoní ji dříve, než dostihne domácích vrátek.
 
+</section>
+
+<section>
+
 Strážník Tlachač bere dneska svou noční obchůzku proti srsti. Začal na opačné straně, kde jindy končívá, u hospody naproti nádražní cestě, a potlouká se stále někde na okraji města, jako by se úmyslně vyhýbal jeho středu, a středem, jak známo, je v Bytni náměstí. Dostal se až na hořejší silnici a viděl srpek měsíce snášet se nad měnínskými lesy, tam někde za Bošilcem. To už nemohlo být daleko k půlnoci. Ostatně věděl dobře, kolik je, protože slyšel radniční hodiny odbíjet každou čtvrt, a zabočil na úzkou cestu mezi farskou a hřbitovní zdí, právě když začaly zatloukat rakev uplynulému dni dvanácti zvonivými údery.
 
 Našlo by se v Bytni málo takových, aby si vybrali zrovna tenhle čas na procházku touto cestou. Ale Tlachač si to tu valí bezstarostně, zabíraje svými rameny uličku takřka po celé šířce. Prochází jí svým pádným obchůzkovým krokem, o nic rychleji ani pomaleji, než by šel kdekoli jinde. Také si nepohvizduje, protože z úcty k těmto místům by si zde nepohvizdoval ani za dne. Vůbec je pln rozvážného klidu a o to mu patrně šlo především, aby si dokázal, že nepodléhá žádným výmyslům, pověrám a babským strachům. V tom asi bude skrytý smysl jeho zacházky na dnešní obchůzce, zacházky, která mu není předepsána a k níž ho nikdo nenutil. Strážník se zjevně potýká s něčím, co nemůže uchopit za límec jako hospodského výtržníka, zatřepat tím a vykázat to do hranic stanovených zákonem. Potřebuje se ujistit, že stačí na všechno, co je z této země. Navzdory těm několika kouskům drátu, jež mu občas zachrastí v pravé kapse služebního pláště.
@@ -151,6 +161,10 @@ Pustí se pomalu k hotelu U Koníčka, ale může jít opravdu jen velmi zvoln
 
 Škoda, že Tlachač bude muset uvážlivě pokyvovat hlavou s ostatními a že nikdy, do nejdelší smrti, se nebude moci doznat ke svému strůjcovství. Poslední jeho myšlenka o té věci je, že si musí dát do rána důkladný pozor na Harazimův krám, a pak už jen vtahuje do sebe chtivě vzduch a ptá se, co mu asi tentokrát schovala hospodská, protože všechno to vzrušení a napětí, jímž prošla té noci jeho duše, se proměnilo v jeho těle v ohromný hlad.
 
+</section>
+
+<section>
+
 Je těžko říci, proč se Tlachač nedostal dříve zpátky k Harazimovu krámu než ve čtvrt na čtyři ráno. Od Koníčka se vymotal krátce před druhou hodinou ranní a v hlavě mu svítilo několik slivovic, protože v hotelu se pil litkup[9](./resources/undefined) mezi dvěma byteňskými sousedy. Strážník doprovázel prvního radního, který byl jednou ze zúčastněných stran, na „Pražskou“, do čtvrti za starou svatováclavskou kaplí. Tato cesta, při níž musel zdolávat výbojnost svého svěřence a ke konci jej více vléci než vést, přispěla hodně k Tlachačovu vystřízlivění. Ale když už byl jednou v těch koncích, které měl pod dozorem jeho služební kolega, rozhodl se, že je podrobí řádné prohlídce. Naděje, že najde ještě otevřenu hospodu, jež byla zastrčena v tomto koutě, ho však zklamala a zklamání, jak známo, vede mysl k hloubavosti. Osvětlováno plamínky slivovic, otevření harazimovských zámků se jevilo jako náramná švanda a po celou tu dobu, co seděl v kruhu rozjařených kumpánů u Koníčka, zápasil strážník s pokušením vyklopit ji, aby přispěl k zábavě. Za to, že to neudělal, vděčil spíše nedostatku příležitosti v tom obecném zmatení jazyků a smyslů než své rozvaze. Nyní, když ty modré lihové bludičky vyhasly a poztrácely se, když nikam už nelákaly a nic neslibovaly a když se kolem něho valila noc prochladlá až ke dnu, zamrazilo ho z představy, co by si byl způsobil, kdyby byl podlehl návalu žvanivosti.
 
 Byl to vůbec pěkný nesmysl s těmi zámky a už ani Harazimovo ranní překvapení ho nedovedlo uhájit před odporem, který k němu strážník nyní pocítil. Nebylo ještě pozdě, mohl napravit svou pošetilost. Vyhověl svému pokušení – ačkoli se dosud marně snažil pochopit proč, když třicet let je považoval za nevinnou hříčku své mysli –, nesměl však připustit, aby starý Harazim strhl ráno poplach a obvinil ho, že vykonával nedbale svou povinnost.
@@ -197,6 +211,10 @@ Strážník se přidrží zdi, zavrčí odmítavě na ruce, které mu chtějí p
 
 – To nebyly zámky, to bylo pokušení. Třicet let jsem čekal, kdy někoho svede.
 
+</section>
+
+<section>
+
 Noc roztála v svítání, a když se ženy začaly scházet u zelinářských stánků před hotelem U Koníčka, bylo už hrdinství Tlachačovo známo celé Bytni. Vzrušení ještě zachvívalo městem, neboť déle než desetiletí se v jeho zdech neodehrálo něco podobného. Slyšíte, nebýt našeho Tlachače, mohl se ten škudlil Harazim rozžehnat se svými tisícovkami, a na třicet prý jich měl v té pokladně. Ale Tlachač, lidičky, Tlachač, to je pašák, poctivec a nebojsa, najděte nám druhého takového v celém okolí. I vytahují se všechny jeho známé činy, už jednou chytil střílejícího kasaře, pamatujete se, a osvětlen jimi strážník nabývá legendární podoby a velikosti.
 
 Ale on sám leží ve svém podkrovním pokojíku v domě dopravce Korce na nádražní cestě a myslí na všelicos. Je malátný ze ztráty krve, snad má trochu teplotu, v hlavě mu šumí a občas upadá v polodřímotu, v níž se mu opakuje dnešní noc. Znovu a znovu bloudí byteňskými ulicemi a slyší ve svých patách kroky, ale marně se otáčí, aby viděl, kdo jde za ním, znovu a znovu chytá svého zloděje, pokaždé však, když už ho drží, shledává, že je to ten skřet z domku v Kostelní ulici, Kvis. Na něho myslí Tlachač víc než na chlapa, který ho poranil. Karlíček Nykl zůstane v strážníkově paměti jen jako pleva, která si chtěla zahrát na zrno, a Tlachač by se velmi podivil, kdyby mu někdo řekl, že zmizení takové lidské nicoty, která ani nebyla pořádným zlodějem a v Bytni zkoušela poprvé práci na vlastní nebezpečí, by mohlo mít nějaké následky a zasáhnout do osudů jiných lidí. A přece Karlíček Nykl seděl už ve vyšetřovací vazbě v Chudějovicích, kam jej odvezli četníci, když jeho nepřítomnost pohnula Bytní víc než jeho dramatické zatčení.
@@ -224,6 +242,10 @@ Není na pochybách, z čeho ta úzkost vyvěrá, a chtěl by se vzdáti tomu 
 Jde tiše k domovním dveřím, plíží se téměř, bojí se, aby ho nikdo nezahlédl a neoslovil. Ale dům je tichý, ženské šly po své práci a služebná v kuchyni odzvání opět jednomu obědu na zvony rendlíků, hrnců, mis a talířů. Dostane se nikým nevyrušován do svého pokoje a zamkne za sebou pečlivě dveře.
 
 Je tu mrtvé ticho, dělené jen klopýtavým chodem hodin s kukačkou, a těžký vzduch, jaký kolem sebe šíří staré věci v nevětraných místnostech. Zastaví hodiny a odloží na oválný stůl před pohovkou náprsní tobolku naditou bankovkami. Dívá se na ni chvíli očima vzrušeně rozšířenýma a pak se začne svlékat. Když se pokouší otevřít skříň, aby do ní uložil své sváteční šaty, shledá, že zámek nestačí dotáhnout jednu ze západek, ať mu napomáhá klíčem, jak chce. I otevře dveře prudkým trhnutím, ale ve skříni se zároveň s hlučným rachotem skácí něco těžkého a sveze se mu k nohám. Zavěsí nejdříve šaty a pak to zdvihne se země a položí lhostejně na stůl vedle tobolky. Je to krátká lovecká kulovnice. Pak se ještě převlékne do starých šatů, otevře okno, více proto, aby ho dvůr včas probudil svými podvečerními zvuky než z přání po čerstvém vzduchu, a svalí se na pohovku potaženou černým voskovaným plátnem. Chce se prospat před večerem, v němž, jak určitě ví, se zmocní svého hráčského štěstí a připoutá je trvale k sobě.
+
+</section>
+
+<section>
 
 Emanuel Kvis sedí na zahradě za svým domem a dívá se, jak podruh Nejtek a jeho nevlastní dcera Božena česají jablka.
 
@@ -280,6 +302,10 @@ Vstane s úsměvem, větve se opět zavřou, sklapnou jako čelisti a pohltí 
 Kdyby věděla! Kvis opravdu sotva vidí na cestu, mlhy se vrátily a přelévají se mu přes zrak vlnami stále těžšími a hustšími. Nejtková, která se už opět zberchala natolik, že může dělat lehčí práce, a myje nyní v kuchyni nádobí, mu otevře dveře. Projde kolem ní, jako by ji neviděl nebo nepoznával. V pokoji, kde jídá, usedne do křesla u okna, ani havelok nesejme z ramen a klobouk z hlavy.
 
 Pět zvučících rázů vzlétne z radničních hodin a krouží dlouho nad Bytní. Ale ještě déle znějí v Kvisovi jako údery gongu zahajujícího představení. Mužík je bledý, rty se mu třesou a v jeho zřítelnicích, těch černých děrách uprostřed bělma, hoří tma spalujícím leskem horečky. Libuše, slyšíš? Blíží se. Tiše, život k nám přichází. Ale to je strašné.
+
+</section>
+
+<section>
 
 Ozvěna těch pěti hodinových úderů ještě poletuje nad byteňskými střechami jako holubí hejno rozptýlené úlekem, když se statkář Dastych vytrhne ze svého těžkého odpoledního spánku. Propotil na sobě i kabát a na čele mu stojí těžké krůpěje, třeští oči a probíjí se jimi zoufale ke skutečnosti a k poznání, kde vlastně je. Slyší vzdalující se hlasy, ale nerozumí už, co říkají, nedovede si vzpomenout ani na jediné slovo, jimiž ho zahrnovaly teď, právě teď, v tom okamžiku, kdy procítal. Pohlédne na hodiny s kukačkou; kyvadlo visí nehybně mezi řetízky zatíženými litinovými šiškami. A on je přece slyší jít prudkými, strašnými rázy. Nic než sen. Ale rázy i hlasy ještě zvučí, vzdalujíce se a slábnouce. Pot na něm usychá a rozráží ho zima; otře si čelo hřbetem ruky a prohrábne zvlhlé rozrojené vlasy hřebenem deseti prstů.
 
@@ -442,3 +468,5 @@ A soudce mlčky přikývne, protože úsilí, aby donesl své břímě, spotře
 _[9](./resources/undefined) Zapíjení uzavřené koupě. Pozn. red._
 
 _[10](./resources/undefined) Neotesanec, balík. Pozn. red._
+
+</section>

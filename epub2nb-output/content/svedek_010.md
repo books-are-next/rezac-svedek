@@ -3,6 +3,8 @@ title: KAPITOLA ŠESTÁ Všechny cesty vedou na náměstí
 contentType: prose
 ---
 
+<section>
+
 Emanuel Kvis bloudí a nenachází klid. Podzimní deště vyslaly už své první harcovníky, ale ani ty ho nedovedou udržet doma. Po nočním lijáku drobně mží, zelináři na byteňském náměstí napjali plachty nad svými stánky a nejklábosivější ženské se uchylují na kus řeči do průjezdu hotelu U Koníčka. I Jeník Harazim opustil své vyhlídkové místo na schůdcích před krámem a stojí za sklem dveří, odkud může zahlédnout Lídu Dastychovou, kdyby šla kolem. Život městečka se ovšem nezastavil pro trochu mrholení, těla, havěť i pole chtějí své, jenomže lidé se pohybují rychleji a nepostávají tolik jako dříve.
 
 Proč ten dědík nesedí v takovém počasí doma? ptají se navzájem povídalky v průjezdu u Koníčka. Emanuel Kvis však pochoduje náměstím sem a tam, nedbaje zvídavých pohledů ani slov, jež k němu někdy bezostyšně dolehnou. Zestárnul v posledních dnech, není to vidět ani tak na jeho tváři, jako na držení těla a na chůzi, jež se stala ještě trhanější. Nohy se mu zdvíhají a dopadají na dlažbu jakoby ovládány nějakým mechanismem, složeným ze samých ozubených koleček. Havelok na něm visí a zdá se příliš těžký pro jeho ramena, světle šedivý klobouk ztmavěl deštěm, lakové střevíce jsou skryty v pleskavých galoších.
@@ -147,6 +149,10 @@ První popud vede kněze k tomu, aby se rozhlédl, zda tento bláznivý a neuv
 
 Kvis už zmlkl a zmizel za rohem kostela. Žene se patrně, jak nejrychleji dovede, dolů ke Kostelní ulici a ke svému domku. Děkan si přejede dlaní čelo. Je mokré potem. Pěnkava slétne na farskou zeď, utrousí kousek svého popěvku a pak zneklidněna tou nehybnou černou postavou pokřikuje tázavě. Kněz váhá na prahu kostelních dveří jako chlapec, který se má jít vyznat otci ze svého poklesku. Pak vstoupí s hlubokým povzdechem, jde rychle prázdnou lodí a poklekne na stupních oltáře, aby předložil svou při jediné bytosti, která zná její rub i líc.
 
+</section>
+
+<section>
+
 Lída Dastychová se zastaví na druhém oddílu schodiště, kam už vpadá světlo plnou silou širokými okny chodby, a vdechne zhluboka ovzduší domu, chlad starých zdí a dýmnou vůni dubových stupňů a ostění. Objata tím vším, co tu bylo zbudováno, aby trvalo a pře­čkávalo, podléhá úzkosti z času. Kam běží, kam tolik spěchá ve svém srdci, když ona už dávno nebude a věci potrvají dál, výsměšné věci, k jejichž lhostejné duši nikdy nenalezneš klíče. Ach, copak je vůbec možné, abychom zmizeli beze stopy, když jsme tento svět tolik milovali nebo nenáviděli? Aby se nad námi zavřela hladina času bez pohnutí, abychom tu po sobě nezanechali ani fatu morgánu, která by se alespoň občas zjevila užaslým zrakům těch, kdo přijdou po nás?
 
 Přitisknuta ke stěně schodiště, Lída sotva dýchá, užaslá obratem svých citů a myšlenek. Trochu se toho domu bojí, a ovšem, začíná jej hrozně milovat. Kdyby tolik netoužila po světě, chtěla by se tu před ním uzavříti tak jako starosta a jeho žena. Protože ti, kdo tu jednou žili, říká si a trochu se přitom otřásá a úzkostlivě rozhlíží, nikdy odtud nemohli odejít nadobro. A nic by se nedivila, kdyby je potkala právě nyní, kdyby ji obklopili všichni najednou, a vůbec by se jich nebála.
@@ -214,6 +220,10 @@ Lída skloní hlavu do dlaní a sedí dlouho mlčky.
 – Je to strašné, řekne konečně. Snad se toho nikdy neodvážím.
 
 – Snad ta hranice je vůbec nepřekročitelná, dodá paní Kateřina.
+
+</section>
+
+<section>
 
 Řekli jsme, že už je září? Namouvěru. Uhání krajem na větrném koni a zlaťáky zvadlých lístků mu padají z přeplněných kapes a kutálejí se po cestách. A jindy opět se zklidní a proměňuje své trochu zá­dumčivé myšlenky v obrazy, utkané z nejčistší modři a průsvitného zlata jenom proto, aby dokázalo, že jeho jméno po právu vzalo svůj původ ve slově zářiti. Je stále klidnější a zářivější, jak mu přibývá dnů; je krásné opravdu, zahleděné do sebe a koupá svou spanilost ve vlastní zrcadelné čistotě. A jistě je bližší dívčímu snu než květen, zkalený vzkypělou mízou.
 
@@ -324,6 +334,10 @@ Tu se Božka div nezalkne svým srdcem. Polyká je hrdinsky i se slzami, pak vz
 A zmizí v kuchyňce.
 
 Kvis tu stojí s hlavou nakloněnou ke straně, jako by stále ještě naslouchal tomuto cizímu a neznámému hlasu. Pak jde a dívá se chvíli na vybledlou fotografii Libuše Bílé z doby, kdy jí bylo asi tolik let jako Božce. Na krku jí visí korálová krůpěj, kterou jí tehdy daroval. Ale náhle se schoulí jako člověk, který se něčeho polekal, sebere svou hůlku, klobouk a havelok a vytratí se tiše z domku.
+
+</section>
+
+<section>
 
 Skryta v kruhu přerostlých a hustých křovin rozpřádá mochnovská kašna svůj rozhovor s věčnem. Září už postříkalo tu zelenou stěnu krví, mědí a zlatem a mléčné žárovky pámelníkových plůdků se tváří, jako by osvětlovaly tu barevnou slávu. Na čtvercových kamenných deskách, jimiž je vydlážděn chodník před okresním soudem, si hraje několik dětí a kolem zelinářských stánků před hotelem U Koníčka žvatlají ženy. Na ošatkách přibylo zboží i barev, obtěžkány štědrostí podzimu rozkládají se doširoka a připomínají klín mytické bohyně, jejíž postava se nad nimi vznáší a rozplývá v mživém dopoledním oparu. Možná, že její sukně je utkána ze stuh pórových listů a pás vytepán ze spěže[7](./resources/undefined) cibulových slupek, pohleďte na hlavice květáků, toť smetanová běl jejího břicha a ňader, a jablka mají jejich tvar a barvu jejich hrotů; po jejích očích nepátrejte, utonuli byste v nich, ale vsaďte se, že vlasy má rudé jako ty svazky mrkve, nevidíme ji, je příliš nebetyčná a příliš rozložitá, aby ji zajal náš zrak a naše představa, ale cítíme její vůni a dech skrytých koutů jejího těla, čpí zralostí plodů a horečnou tužbou pozdních květů, mdlobou zavadajícího listí a zbrázděnou zemí, divokým pachem říje. Cítíte, jak ve vás trne každý sval a nervy zvoní jako přepjaté struny? Ženy kolem zelinářských stánků vdechují tu vůni a jsou neklidné, přešlapují jen proto, aby mohly zahoupat boky, prohnout se nenápadně v kříži a vypnout ňadra, vedou takové řeči, že každou chvíli některá z nich vypískne, jako by ji někdo čapl na choulostivém místě. A to mnohým z nich už začíná být sukně těsná v pase a pod ním čtvrtý měsíc času jim kulatí život na paměť oné červnové noci, kdy se rozštěkali všichni byteňští psi. Kdopak by myslel na věčnost v takovou vlahou dopolední hodinu, kdy slunce, sotva se probilo ranní mlhou, sytí vzduch novými parami, jež k němu stoupají z luk, polí, zahrad, ba i z byteňské dlažby, provlhlé dosud po nedávných deštích, kdo by na ni myslel, když každým vdechnutím život sládne víc a tepleji koluje žilami, kdo by se jí zabýval, když ji cítíme v sobě jako dobře bijící srdce. A hlasy žen i dětí i ptačí zpěv, to všechno zní jasněji než trojpramenná píseň mochnovské kašny, skryté za zelenou zdí křovin, již září zkropilo svými barvami.
 
@@ -468,3 +482,5 @@ Ale pak pohlédne do Kvisových očí, otevře se mu černě pod nohama a hlava
 _[7](./resources/undefined) Z bronzu. Pozn. red._
 
 _[8](./resources/undefined) Hazardní karetní hráč. _Pozn. red.__
+
+</section>

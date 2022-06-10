@@ -3,6 +3,8 @@ title: KAPITOLA OSMÁ Hořící strom
 contentType: prose
 ---
 
+<section>
+
 Nemáme přímých svědectví, na nichž bychom postavili vylíčení toho, co se odehrávalo dále ve statku Dastychových, když tam soudní rada donesl svého bezvědomého bratra. Lucku přivedla domů Lída, která naštěstí zmeškala celou událost, protože se toulala v polích za městem a odříkávala nějakému jeřábu, topolu nebo bříze roli, na jejíž vyjádření doroste tak někdy po deseti letech. Uklidněná kobylka se popásala po mezích, a protože mezi ní a dívkou bylo staré přátelství, utvrzené mnoha kostkami cukru a krajíci chleba, následovala ji pokorně. Lída ovšem nebrala samozřejmě, že Lucka, která měla být v tuto chvíli uvázána u žlabu, se potlouká sama tak daleko za městem, a její zneklidnění stouplo, když procházela ulicemi a narážela na skupiny rozčileně rozprávějících lidí, kteří zmlkali, jakmile ji zahlédli. Nikdo k ní však nepřistoupil, aby jí pověděl, co se stalo, a ona neměla k nikomu z nich tak blízko, aby se sama dotázala.
 
 Vzrušený a žvatlající stařík Balchán jí první vběhl do cesty, když vstoupila s Luckou do dvora. Pšukal volným koutkem úst, až mu sliny odletovaly.
@@ -141,6 +143,10 @@ Chce pokračovat, ale Jeník ho přeruší. Nakloní se k němu a řekne zuři
 
 A nechávaje za sebou Kvise v bezdechém vzteku, vykročí ke krámu klackovitým, vzpurným krokem, jako by se vrátil do let svého juniorského tenisového mistrovství.
 
+</section>
+
+<section>
+
 Den byl dusný, jak v druhé polovině září nebývá. Léto vytáhlo naposledy svou vlajku na samý vrchol stožáru. Taková vzpurná výzva nemohla zůstat bez odvety. Ale dříve ještě než k ní došlo, ten strašlivý lis nízkého tlaku si vyžádal svou oběť. Nejtková, která se už přes týden vlekla po práci, vzdorujíc křečovitým bolestem v životě a v kříži a zmučená jimi, klesla právě před polednem na kamenném prahu chudobince a zbarvila jej krví svého lůna. Krvácení bylo tak prudké, že sousedky nad ní spínaly ruce. Nejtek stál mezi nimi, mrače se v jakémsi temném zděšení; snad se mu zdálo, že se tu řine krev ze všech ran, které jí kdy uštědřil. Božka, pološílená strachy, se rozběhla pro lékaře. Ten malý lomozný doktor byl naštěstí doma. Přisupěl ve svém kačením autu, jež rozpáleno horkem střílelo víc než jindy. Rozehnal hejno žen, vyhodil Nejtka, a ponechav si u sebe jedině Božku, pracoval rychle a zručně, vykřikuje při práci osvědčené žerty, aby rozptýlil dívčin strach a dodal mysli pacientce, z níž unikal život tak mocným proudem. Nedalo se ovšem mnoho dělat, byl to případ pro nemocnici, a kdo ví, jestli i tam něco svedou. Když ukončil svůj zákrok, dal si donést Nejtkovou do vozu, přistrčil k ní Božku, aby ji cestou podpírala, a vyrazil s nimi do Chudějovic, ochotněji, než by se dalo očekávat, neboť tato cesta mu poskytovala příležitost uklouznout rodinnému obědu a pohodovat v hotelu U Koruny.
 
 Zatímco neštěstí Nejtkové pomohlo mlsoutskému okresnímu lékaři k malé hostině v Chudějovicích, připravilo Emanuela Kvise o oběd. V tu chvíli, co Nejtková klesla před chudobincem, přicházívala jindy Božka, aby mu donesla jídlo od Koníčka. Kvisovi je to však lhostejné – nepociťuje vůbec hlad. Dusno dnešního dne tísní i jeho. Sedí na obvyklém místě u okna dokořán otevřeného a vyhlíží ven strnulým pohledem, skryt za síťovou záclonou. Viděl všechno, co se odehrálo naproti, a nyní pozoruje Nejtka, který po odjezdu lékařova auta se svalil na lavičku vedle vchodu a nyní tam tupě sedí v té polední výhni, stupňované zdí za jeho zády. Nebeští topiči pracují v úkolu a nedopřávají si odpočinku, výheň je bez přestávky dokořán a horko sálá dlouhými rytmickými výdechy. I příškvar staroby a prašiviny na zdi chudobince mu podléhá a taje do dávno zmizelé běli. Na tom rozžhaveném plátu se peče Nejtkova hlava. Alkoholické částečky, rozptýlené v jeho krvi a nerozlučně s ní spojené, se vzňaly modrými plamínky a pomáhají slunci spalovat ten ubohý mozek, překynulý kvasnicemi neukojené touhy.
@@ -162,6 +168,10 @@ Vždyť je to prapůvodní vůně tohoto příbytku a všeho, co nosívala jeho
 Ticho, Libuše, nesmíš mě nyní rušit. Život se naplňuje tak, jak bychom to my dva nikdy nedokázali. Dávám ti jej, ukradl jsem jej pro nás oba. Je ho víc, než stačím unést. Ale musím dál, musím vydržet až do konce. Ptáš se, co je zač to bílé stvoření, tak bílé, div neoslepneš? To je ta dívka. Netvař se udiveně, znáš ji právě tak dobře jako já, něco takového ti přece nemohlo ujít. Miluje mě; není to směšné? Nebo si to alespoň namlouvá, protože jsem k ní zdvořilý a slušný a ona nikdy nepoznala nic dobrého a bojí se mužů. Ty ses také domnívala něco podobného. Trváš ještě dnes na svém omylu? Jenomže tvá láska mi nedávala nic, co bych nenacházel v sobě samém, a my oba příliš dobře víme, co je to. Ale tady i ten přelud lásky má takovou sílu, že by mě mohl proměnit a nahradit mi všechno, co mi celý život scházelo. A přece jej obětuji. Protože už je příliš pozdě a protože nemohu čekat. Musím mít všechno najednou, hned. Hleď, i vášeň mám. Vidíš tu černou pracku, která se vztahuje po tom děvčeti? Patří tomu chlapíkovi, který si tamhle naproti peče hlavu na rozpálené zdi. Patří i mně, chceš-li. Jsem oboje: cit a krása, i ta pracka, která je rozdrtí. Do kolika nekonečných let musí lidé roz­drobit svůj život, jak pracně shromažďují jeho sumu. A já budu mít obsah několika životů v jedné jediné chvíli. Tolik jsme toužili být jako oni. Nuže, buďme jimi na jejich účet, když svůj účet nemůžeme mít. Dnes těmi a zítra oněmi. Není to víc? Tady je máš, dívej se a ber si. Necítíš se mnou, kolik pecnů osudu se dopéká v peci dnešního dne? Kterak to všechno uneseme? Bojím se, stůj při mně.
 
 Z kdoulových jablek se zdvíhá vůně těžší a hutnější, jako by někdo otevřel láhve se silicemi, už téměř vypudila vůni původní a vládne tu sama, rmutná a nehybná jako to dusno v ulicích, nad střechami, nad celým rozlehlým krajem.
+
+</section>
+
+<section>
 
 V té zátopě horka, jež se vylévá novými a novými vlnami, ačkoli slunce už začíná sklouzat po svahu odpoledne, kamenný mochnovský dům je ostrovem příjemného chladu. Manželé Nolčovi však neobědvají v rozlehlé jídelně v přízemí; paní Kateřina si v poslední době oblíbila širokou chodbu v prvním poschodí na západní straně domu, kde visí podobizny jejích předků. Od té doby, co odmítá vycházet z domu, tráví tu celé dny. Zelené žaluzie jsou spuštěny a odrážejí sluneční palbu; pod nimi proudí do chodby mdlá vůně listí a trav, drcených žernovem horka.
 
@@ -225,6 +235,10 @@ Starosta přikývne.
 
 Ale pak jako by se rázem rozpomněla na to, co předcházelo její mdlobu, uhne mužovým očím a vykloní se k oknu. V tu chvíli sad zasažený prvním větrným nárazem vydá hluboký sten, stromy se ohnou směrem k domu, žaluzie poskočí a zadrnčí, smršť se zatočí nad trávníkem i nad cestou a zdvihne stoupající vír prachu a spadlého i urvaného listí. Vypadá to, jako by celý sad se zmítal na neviditelných řetězech, jimiž je připoután k zemi, jako by usiloval přervat je a vznést se.
 
+</section>
+
+<section>
+
 V Kostelní ulici Emanuel Kvis sám napolo v mdlobách zaslechne blížit se pomalé, odměřené kroky. Děkan Brůžek se vrací domů z měnínské školy, kde vyučoval náboženství. Stoupá rozpálenou ulicí s hlavou brunátnou, ale nepokrytou. Zastaví se, když zahlédne Nejtka, sedícího u dveří chudobince, jako přibitého na rozpálenou zeď. Potkal se už na nádraží se zprávou o neštěstí, jež stihlo Nejtkovou. A podruh nehybný na svém místě, s očima strnulýma a zjevně necitelný ke všemu, co se děje s ním nebo kolem něho, vypadá jako člověk, který byl zasažen boží pěstí a nevzpamatoval se ještě z jejího úderu.
 
 Kvisovo nitro se otřásá ozvěnou zlomyslného smíchu. Vidíš ho, Libuše, to je také jeden z nich. Dívej se dobře, jak to má v sobě popletené, jak se v něm sváří vzpoura s pokorou. Bůh je jeho jediný pán, ale někdy se mu zase zdá, že ten pán jedná příliš pomalu, nebo že mu na všechno nevybývá čas. A tu by chtěl jednat za něj. Už se o to pokusil, jak by byl svědkem jeho úradku, a teď se bojí sám sebe. Víš snad o tom něco víc, Libuše, než my? Chodil jsem naslouchat jeho bohu, ale zdá se mi, že celý jeho obsah je zmatek, a jenom proto, že je neuchopitelný a nepochopitelný.
@@ -246,6 +260,10 @@ Děkan přendá klobouk do odmítnuté pravice, pohladí rozcuchanou hlavu a za
 V tu chvíli se stanou dvě věci takřka současně. Emanuel Kvis, který se dosud otřásal zadržovaným vnitřním smíchem, vybuchne v hlasitý chechtot. To se povedlo, Libuše, vidělas? Podával ruku a byl odkopnut jako pes. Kvis se chechtá, jako by někdo potřásal věncem dřevěných kolíků a zároveň skučel v záchvatu hysterie. Děkan, zasažen tím smíchem, ztuhne v mrazivém ustrnutí a do byteňských střech a sadů udeří druhý náraz vichřice. Vyjící smečka vpadne do ulic a žene před sebou zvířený prach, jako by před ní prchala neviditelná stáda, daleké dunění zní dupotem nesčetných kopyt a jako lindušky, uniklé v posledním okamžiku tomu drtivému přívalu ze svých pozemních hnízd, vznáší se vysoko nad domy žluté i zelené listí.
 
 – Můj obrázek, vykřikne usmrkánek a pustí se s pláčem v běh za svým pokladem, který mu vítr vyrval z nedosti pevně sevřených prstíků. Ale kněz, jemuž vytí vichřice i smíchu splynulo vjedno, schýlí hlavu; a sepjav bezděky ruce na prsou, postupuje k domovu, raze si cestu tím dravým proudem náhle zešílevšího vzduchu.
+
+</section>
+
+<section>
 
 Oblačná armáda se vyvalila na bitevní pole oblohy, valné voje podzimu nastupují, aby svedly poslední boj s létem. V hloubce černých mraků hoří sírový přísvit, jako by někde vzplály celé kraje, hluboký otřásající rachot kanonády se blíží, slunce už bylo pohlceno a přítmí, strašidelnější po předchozím jasu než noční tma, je roztínáno oslňujícími záblesky nebeských houfnic. Jako palba předních hlídek zacvakají první velké kapky o byteňské střechy a rozplesknou se na dlažbě. Pak přijde chvilka ticha, v níž se zdánlivě nic neděje, jako by velitel armády přijímal hlášení svých předvojů a rozvažoval, co dále. Chvilka dusivého úzkostného ticha, v němž strnul celý kraj, očekávaje příští hrůzy. Rozpálené střechy, kamení a zdi, listí znavené žárem, to všechno vrací vyprahlému ovzduší první svlažující pršku, a vzduch se naplní štiplavým jitřivým pachem smáčeného prachu a prudce se vypařující vody. Útok je zahájen oslepujícím bleskem, při němž všem lidem zaskočí srdce do hrdla, hromový výbuch rozdrnčí okenní tabulky a hned nato zborcená nebeská stavidla a hráze pustí přívaly vod.
 
@@ -272,3 +290,5 @@ Nejtek podoben jí podklesne uprostřed druhého kroku a padne tváří do mokr
 * * *
 
 _[11](./resources/undefined) Suchý horký vítr. Pozn. red._
+
+</section>

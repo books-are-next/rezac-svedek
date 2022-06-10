@@ -3,6 +3,8 @@ title: KAPITOLA PÁTÁ Nepřekročitelná hranice
 contentType: prose
 ---
 
+<section>
+
 Otevřeným oknem proudí do světnice vůně srpnového rána a počíná si tu jako fretka, jež byla puštěna do jezevčího doupěte. Slídí z kouta do kouta a štve odtud ztuchlý pach noci. Nejtek si zalezl na židli k oknu, dopíjí zbytek černé kávy (ta bílá brynda je zrovna tak dobrá pro ženské) a kouří cigaretu. Aby se dostal na své místo, musí se protáhnout nízkou mezerou mezi čelem postele a rohem stolu, postaveného před oknem. Tady sedá v létě nejraději, přímo u pramene čerstvého vzduchu a z cesty oběma ženským, jež se pletou jedna druhé, jak stelou postele, zametají to málo, co zbývá z podlahy mezi nábytkem, a myjí nádobí. Nad jednou z postelí visí kříž. Jeho břevna jsou jakoby upletena z listů vypálených do dřeva, ale z porcelánových údů Ukřižovaného vypadávají hřebíky, takže většinu času visí za jednu ruku. Panna Maria na protější stěně v rámu s přesahujícími konci a pod sklem, prasklým klikatou čarou, shlíží barvotiskově vlídně na své utrpení. Rozhrnula si na prsou nebesky modré roucho a ukazuje oblé, karmínové srdce, věnčené září a trnovou korunou a protknuté sedmi stejnými mečíky. Od několika trnů kanou krůpěje krve, mečíky nezpůsobily viditelného zranění.
 
 Zčernalá mucholapka splývá od stropu nad malou plotýnkou, zasazenou do rohu světnice vedle dveří. Božka se jí uhýbá navyklým pohybem hlavy, když odkládá na krůvek umyté talíře, hrnky a lžíce. Má na sobě šedé bavlněné šaty, potištěné tmavým drobným vzorkem, metr té látky za tři koruny i u Harazima, který má v Bytni monopolní postavení. Přepásala se zástěrou, a jak se shýbá nad dřez, postavený na nízké stoličce, její bosé nohy svítí v tom šeru u plotny bělostnou nahotou až vysoko nad podkolení. Když tam Nejtek pohlédne přes hubené boky své ženy, která klečíc vytírá vlhkým hadrem pod postelí, zatne volnou pěst a div nezasykne, jako by se připálil. Odvrátí raději hlavu a dívá se do modra srpnového rána, do nekonečně hlubokého a nekonečně rozlehlého modra. A obruč úzkosti mu sevře prsa. To ze života, do kterého byl obléknut, ze života příliš úzkého pro všechno, čeho by se mu chtělo. Nadýmej a naparuj se v něm, jak chceš, trhej a cloumej jím, snad na tobě praskne, ale nového se ti nedostane.
@@ -28,6 +30,10 @@ Nejtek k ní znenadání přistrčí hrnek přes desku stolu, hrnek se v půli
 – To máš za to, že seš drzá. A drzá seš, to jo. Máš čekat, až tě zavolám.
 
 Božka utře cípem zástěry trochu černého kalu, který se vylil z hrnku, pohodí beze slova hlavou a vrátí se k dřezu u plotny. Zůstaví za sebou rozvířený vzduch, plný jiné vůně, než jaká sem vtéká oknem.
+
+</section>
+
+<section>
 
 Je hodina, kdy slunce běží rovně Kostelní ulicí vzhůru, valí se a stoupá beze stínu celou její šířkou. Ženské odešly poklízet naproti ke Kvisovi, ale Nejtek trčí dál na svém místě u okna. Stačí mu, aby se jen docela málo vyklonil, a vidí Božku, přisedlou na bobku, jak pleje a kypří květinové záhonky před Kvisovým domkem. A vidí Kvise, který také sedí u otevřeného okna a dívá se na ni právě tak jako on. Děvče ví o nich obou a pracuje s hlavou skloněnou, jako by nebylo na světě nic jiného než ona a ty kopečky a trsy květin, jež políbeny jitřním sluncem mísí svou jemnou vůni s jitřivým pachem vlhké země, opíjejí Božku a probouzejí v ní nějaký lehký, prchavý sen, který nestačí sledovat ani odíti tvarem, protože je snad celý utkán jen z vůní, barev a perleťové mlhy, jaká zahaluje svět v osmnácti letech.
 
@@ -62,6 +68,10 @@ Před domkem, z něhož nedávno vynesli na poslední cestu Libuši Bílou, st�
 V tom se ovšem zmýlil.
 
 Jak se tu teď dívá na Božku, skloněnou nad Kvisovými záhonky, ta noc se mu vrací. A ví, že se mu bude vracet vždycky, kdykoli na ni pohlédne.
+
+</section>
+
+<section>
 
 Od příhody se starostou uplynul už málem týden a Emanuel Kvis nevyšel za tu dobu ani jednou ze svého obydlí. Sedal v biedermeier­ském křesle, opuštěném Libuší Bílou, u malého stolku pro ruční práce a vyhlížel celé hodiny nehybně na málo rušný život v Kostelní ulici. Není spolehlivého svědectví, jež by nám jasně osvětlilo, co se v něm odehrávalo v těch dnech. Snad ani nevnímal, co se kolem něho děje. Velmi často se stalo, že kolemjdoucí ho zdravili, ale nedostávalo se jim odpovědi. – Jdi se na něj podívat, posílali se, spí tam s otevřenýma očima. Jenom několik žen s ním přišlo do přímého styku a na ty působil dojmem, že se jen ztěžka probírá z únavy a lhostejnosti až otupělé.
 
@@ -192,6 +202,10 @@ Kvis čeká marně; paní Kateřina má dostatek vrozené prozíravosti a nevyd
 Zdá se mu, že pojednou uvnitř mrzne; táhne jím chlad, nezměřitelný teploměry. To nemůže být z ní – třebaže se dosud nikdy nesetkal s člověkem, který by se ve zlomku vteřiny dovedl obehnat tak vysokou hradbou nepřístupnosti –, nýbrž ze světa, jehož se dotkla svou touhou. Dopustil se chyby, dal se strhnout svou ješitností, jediným svým vlastním citem, který v něm občas překypí a sehraje mu nepříjemný kousek, právě když to nejmíň potřebuje. Ještě nikdy však nezašel tak daleko jako dnes. Byla vůbec první, komu o sobě vyprávěl, a pověděl toho více, než bylo zdrávo jeho záměrům. Zrušil kouzlo zvědavosti, které by ji k němu hnalo vždy znovu, až by se naplnilo to, čeho se paní Kateřina tak bojí a po čem tolik prahne. A přece i uprostřed té úzkosti si nepřestává býti jist, že pohnul v jejím srdci něčím, co mu ji přivede zpátky a objasní celou, i kdyby se obehnala hradbami ještě vyššími.
 
 Čeká otázku nebo poznámku, jíž by se paní Nolčová vrátila k jejich rozhovoru. Ale návštěvnice zavede řeč na jeho zdraví, vysloví několik rad, jimiž mladší lidé dovedou přivést starší až k nepříčetnosti, připomene si neúprosně ubíhající čas a požádá ho, aby zavolal Marinu. Rozloučí se s ním bezdůrazným stiskem ruky, v němž Kvis marně hledá stopu dřívějšího zájmu a účasti. I sedí dlouho po jejím odchodu mdlý a vyhaslý, s obličejem stařecky scvrklým, takže lidé, kteří se trousí Kostelní ulicí na požehnání, pociťují ledový závan ve svých myšlenkách a říkají si, že ten dědek trčí ve svém křesle trochu příliš strnule, než aby to bylo jen tak.
+
+</section>
+
+<section>
 
 Slečna Eleonora Dastychová navštívila svého bratra soudce. Viděl ji přicházet, sledoval ji od okamžiku, kdy vyšla z branky rodného statku a zamířila přes náměstí k soudní budově. Měl dosti pokdy, aby se připravil na její návštěvu, o níž mohl předpokládat, že nebude příjemná.
 
@@ -366,3 +380,5 @@ A vyběhne plačíc z úřadovny.
 * * *
 
 _[6](./resources/undefined) Kabát z listru, lehké lesklé vlněné látky. _Pozn. red.__
+
+</section>

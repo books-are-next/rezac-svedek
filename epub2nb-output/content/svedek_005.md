@@ -3,6 +3,8 @@ title: KAPITOLA PRVNÍ Měsíčná noc
 contentType: prose
 ---
 
+<section>
+
 Ozářena měsícem Byteň spí v otevřené krajině. Bílá věž děkanského chrámu střeží její sen, prostá, čtyřhranná věž, jen tak zhruba omítnutá a krytá šindelovou střechou. A jako by přejímala odraz té věže, noc sama se zdá všecka bílá, taková jasná noc, prosvětlená do všech koutů, rozechvělá a vábivá, jen stěží skrývající trosky svého tajemství ve vržených stínech. Červen se prochází po lukách a zahradami, a když dechne, zavoní seno a fialy.
 
 Za takové noci je ovšem škoda svítit a městská rada už dávno rozhodla v tom smyslu o pouličním osvětlení. Obušek za zády, strážník Tlachač se kolébá za svým naditým stínem. Panečku, to je chlap, kterého tu tlačí před sebou po hrbolatém dláždění. I narůstá sám v sobě do ramenaté důležitosti strážce veřejného pořádku a bezpečnosti svých bližních. Ale měsíčná noc a červen si dovedou pohrát i se strážníkem, který už překročil padesátku a má se za prvního v městě hned po starostovi. Připomene mu dětská léta, kdy jako kluci se pokoušívali šlápnout na hlavu svému vlastnímu stínu, a strážník, jak se tak šine po opuštěném a mírně svažitém náměstí, oživeném jen šumem a zvoněním kašny, podlehne bláznivému popudu. Zdvihne ruku, zamává obuškem, tím důrazným odznakem své moci, a vypadne za svým stínem. Ale stín poskočí dopředu, takže se hlava rázem vzdálí z dosahu a opakuje Tlachačovy posunky s tak výsměšnou pitvorností, že strážník ihned ustane ve svém počínání a rozhlédne se polekaně kolem sebe.
@@ -160,6 +162,10 @@ Paní Kateřina sklouzne z prsou a klína svého muže, a ponechávajíc hlav
 Paní Kateřina už pije zhluboka a pravidelně ze studnice spánku a starosta je šťasten, že se má čím obírat. Pravděpodobně usne za chvíli také, třebaže nepoužité prášky zůstaly v kapse županu, to se mu stává vždy, když se snaží v noci domyslet nějakou naprosto určitou věc.
 
 Žil by a navštěvoval by svou matku ten světlovlasý chlapíček, jeho synek, kdyby se Kateřině narodilo ještě nějaké dítě? Nenarodilo se a nikdy se už nemělo narodit. Lékaři zakývali bradami a řekli: Už nikdy, a měli pravdu. Poslední svého rodu, on i jeho žena. Trpká jistota. Ale starosta Nolč je s ní smířen. Proč by se měli rodit další a další Nolčové, když on sám neví, co počít se svým životem? Chtělo by se mu vůbec žít, kdyby nebylo Kateřiny? A třebaže o tom spolu nikdy nemluvili, je si jist, že jeho žena je prostoupena týmž pocitem. Podivná odpověď na otázku po smyslu a účelu života. Vzájemně se podporující společnost na udržení života, ačkoli, jak bylo právě naznačeno, jeho držitelům na něm jednotlivě nesejde. Starosta se usmívá do tmy. Takové hříčky hoví jeho smyslu pro ironii. Ale kdo ví, mluví třeba jen za sebe a Kateřinin vztah k životu je jiného druhu. Proč by v ní jinak žilo a rostlo dál dítě, které zemřelo? Zemřelo? Třeba nevysvětlitelnou existencí toho chlapce, který nikdy nevdechl ani jediný doušek vzduchu, podává věčnost záchrannou ruku Mochnům a snad i Nolčům. Pokud ovšem věčnost vzala vůbec na vědomí Mochny a Nolče a jejich rodovou pýchu. Oči už nemohou snést váhu a palčivost tmy, povolují víčkům, jež se na ně kladou jako svlažující hojivé náčinky. Kateřinin dech upíjí spánku doušky stále hlubšími, a ve tmě, jež jako by se přestala bát, že budou prohlédnuta její tajemství, rozpoutává se divoká přestřelka. Ve dřevě ostění, nábytku i podlahy postupují proti sobě neviditelní zákeřníci a jejich výstřely praskají jednotlivě i v řetězcích. Ach, kdo ví, možná, že to není šarvátka, že je to jen telegrafický rozhovor o lidech, jimž slouží a jež přežívají.
+
+</section>
+
+<section>
 
 Tlachači, konej svou povinnost. Tvá obchůzka se ještě neskončila a pitomý měsíc, nařvaný a nadutý jako selský krasavec, si nesmí dovolit, aby zasahoval do úředního výkonu. Nestůj tady, Tlachači, a nemudruj, s myšlením ti to vždycky vyšlo nakrátko a o této noci nebude vydána úřední vyhláška, z níž bys vyčetl proč a jak, nikdo ti nedá v tuto chvíli rozkaz, co dělat. Je to nepochybně nepřístojnost, promění-li se strážníkovi ulice, jimiž prochází po třicet let, v cizí město a potká v nich sebe sama jako podezřelého cizince. Ale kdo je za ni odpověden? Kdo zavinil, že radniční věž, k níž vzhlížíš denně, je ti teď právě tak nepovědomá, jako bys ji viděl poprvé v životě? Proč jsi zápolil se svým stínem a proč tě starosta ohmatával jako řezník kupující býka, určeného na porážku? Viděls vůbec, cos viděl, a dělals, cos dělal? Vždyť věci se dějí jen ve chvíli jim určené a pak se vytrácejí jako hrstka tabáku, kterou pálíš ve své dýmce. Dým se rozplyne a popel rozvane vítr, jenom chuť zůstává, o níž nedovedeš říci, pochází-li z minula, nebo směřuje-li k nějakému ději příštímu. Ach ty potápěči ve vodách tajemství, jsi příliš dýchavičný, abys dosáhl dna a vynesl odtud byť hrst písku, který uniká mezi zaťatými prsty. Máš mozek vyluhovaný rozkazy, i kráčej po této podešvi, drže se čáry narýsované povinnosti, která tě nikdy nezklame a nedá ti zbloudit.
 
@@ -357,6 +363,10 @@ Chce pospíchat, ale řezavá bolest v podbřišku mu zkracuje a zpomaluje kro
 
 – Snad to povolí, až do sebe vrazím jedno pivo.
 
+</section>
+
+<section>
+
 Byteňské nádraží je vzdáleno od kašny na náměstí, která je takřka geometricky přesným středem Bytně, dobrých dvacet pět minut cesty. Běžící chlapci snad zdolají tuto vzdálenost za sedmnáct minut i méně, ale chlapecké nohy nemohou být měřítkem byteňského občana, který ví, co váží a představuje. Je však znám, vzpomínán a obdivován výkon Ferdinanda Korce, kdysi facíra[1](./resources/undefined), postupně ponocného, polního a lesního hajného a nakonec veřejného posluhy byteňského, který ji jednou vedle svého psího spřežení urazil za dvacet tři minuty. Byl ale tehdy tak udolán a takřka poděšen svým rekordem, že se nemohl vzpamatovat ani po třech sklenicích chudějovického. Od těch dob, brzdě přílišnou horlivost svých tlamatých hafanů, uštipoval tuto vzdálenost dobře odpočítaných třicet minut.
 
 Nádraží leží nalevo od okresní silnice, která počíná nebo končí v Bytni právě naproti Roubalově hospodě, poslednímu byteňskému výčepu na této straně. Silnice protíná trať a hrbolatí si to na Měnín, Palachy, Křtín, Rozmarovice a dále do kopců, kam už nesahají zájmy Byteňských a odkud si, pokud paměť sahá, nikdy nikdo nepřihnal krávu ani nedovezl nevěstu. Naproti od silnice mezi Bytní a tratí se rozlévá rybník Dělovec, sedmatřicet hektarů vodní plochy, ale dobrých pětačtyřicet borkoviště, mokřadel a sítin, které dosahují až k silnici a pokračují i na druhé straně za ní hezky daleko, než je z nich jakás takás louka. Nu, a právě naproti konci této louky, přes cestu, jež nevede dále než k němu, rozsedlo se byteňské nádraží, úřední a obytná budova v jednom a pod patro, pak skladiště s rampou, nezbytná zahrádka s besídkou, signální věžička, studna a ten známý domeček se dvěma vchody.
@@ -373,8 +383,16 @@ Dnes tu však stojí Teršík zkoprnělý nad nákladem, který se mu urodil na 
 
 Něco se bělá u postranního držadla kufru. Jmenovka. Alespoň ti poví, který čert harcuje s takovou tíhou. Otočí si jmenovku, skloní se nad ni a slabikuje si v měsíčním světle jméno, které je na ní napsáno velkým, školácky přesným a kaligraficky vykrouženým písmem:
 
+</section>
+
+<section>
+
 _Emanuel Kvis  
 Byteň_
+
+</section>
+
+<section>
 
 – Kvis? opakuje si Teršík polohlasně přečtené jméno, protože jako většina lidí pracujících osaměle v noci je zvyklý občas na sebe promluvit nahlas, aby přece slyšel nějaké to slovo a víceméně se přesvědčil, že je vůbec ještě naživu. Kvis? Byteň? Jaktěživ sem tady takový méno neslyšel. To nemůže bejt nikdo zdejší.
 
@@ -463,3 +481,5 @@ Psi už se této noci neutiší; jejich štěkot vybuchuje přes tu chvíli, jak
 * * *
 
 _[1](./resources/undefined) Člověk bez stálého zaměstnání, hanl. povaleč. Pozn. red._
+
+</section>

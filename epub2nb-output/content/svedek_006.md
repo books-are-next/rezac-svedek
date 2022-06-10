@@ -3,6 +3,8 @@ title: KAPITOLA DRUHÁ Bratři
 contentType: prose
 ---
 
+<section>
+
 Lítá tu jediná moucha, ale postačí. Dostala se sem otevřeným oknem a teď je nemůže najít. Zmehla si[2](./resources/undefined), že cesta ven vede tím druhým, zavřeným. Zlezla už, co se dalo zlézt, a ohledala bedlivě svým sosákem, nevynechala ani soudcův stůl. Soudce ji chvíli pozoroval, jak smýčí po papírech, pokračujíc v beznadějném průzkumu místních životních podmínek. Pak mávl rukou a odehnal ji.
 
 – Vša, muško, řekl a usmál se. Usmíval se vždycky, kdykoli se mu o samotě nahodilo zahánět mouchy. Usmíval se slovům i posunku, jichž při tom používal, i vzpomínce na matčina otce, po němž je zdědil.
@@ -30,6 +32,10 @@ Soudce si nasadí brejle a rozevře sbírku rozhodnutí Nejvyššího soudu. Al
 Dastychův statek je jediný na byteňském náměstí. Dastychovská pýcha jej tu postavila před dvěma stoletími a neustoupila, ani když občanské domy vytlačovaly jednoho jeho souseda za druhým. Dívá se do náměstí patrovým obytným domem a slepým průčelím stájí a seníků. Mezi těmi dvěma budovami pod barokně sklenutým vjezdem rozpínají se mohutná dvoukřídlá vrata a vedle nich, jako kuře vedle kvočny, se krčí vrzavá vrátka pro pěší.
 
 Soudce Dastych prošel těmi vraty naposled před patnácti lety za rakví svého otce a neprojde jimi patrně už víckrát v životě. A přece vynaložil všechno úsilí, aby se dostal do Bytně, a nyní tu sedí už dvacátý rok a odmítá podat si žádost o přeložení ke krajskému soudu, aby postoupil o příčku ve své kariéře, ač na to má dávno nárok. Proč sedí soudce Dastych v Bytni a pohrdl svou budoucností, proč se ani neoženil? Dělá to všechno jenom proto, aby měl na očích ten bílý dům a aby mohl jít denně procházkou kolem polí, jež k němu patří? Nemůže se snad smířit s tím, že byl poslán na studie a statek byl dán mladšímu synu z druhého manželství? Spravedlnost je jeho řemeslo a on se v něm vyzná líp, než bys mohl soudit podle místa, jež zaujímá v řadách jejích služebníků. Našel snad nějakou chybu ve svém vlastním případě? Ale kdo jiný může vědět lépe než on, že není zákona, podle něhož by mohl podat odvolání proti svému údělu, že není instance, na niž by se mohl obrátit. A přece tu sedí soudce Dastych, obrací denně oči k rodnému domu, obchází jeho pole, nevidí svého bratra, potkají-li se, a čeká – kdo ví nač.
+
+</section>
+
+<section>
 
 Tihle Dastychové nebyli nic malého v Bytni, a nebýt Nolčů, stěží by se jim někdo vyrovnal. Řeknete-li statek, myslíte na sedláka, ale oni byli skutečně statkáři. A také oni jediní se udrželi uprostřed města, když všichni kolem nich své domy prodali anebo si pohrávali s obchodem tak dlouho, až v nich ta lehčí sklizeň zlaťáků rozleptala věrnost k půdě a sedláky pohltila. Dastychové zůstávali trčet se svým domem na náměstí a odmítli všechny nabídky, neboť už mnoho obchodníků zatoužilo po tomto místě, tak výhodně položeném. Ale Dastychové jako by tu chtěli demonstrovat selský základ Bytně, nebo snad věřili, že soudržnost jejich majetku je nerozlučně spojena s tímto místem.
 
@@ -137,6 +143,10 @@ Slečna Eleonora se vyhoupne na kamenný chodníček, jako by jí dávno ještě
 
 Statkář stojí na místě, kde ho sestra opustila, a rozhlíží se divoce. Pozdvihl ošatku, patrně jí mrští za rozptýleným hejnem slepic. Ale nikdo není na dvoře; stojí tu jen opuštěný žebřiňák s trávou, stařík Balchán zmizel v stáji a děvečka, odstřelená Eleonořiným deštníkem, se neodvažuje vyhlédnout. Josef Dastych se přikrčí jako člověk, který se chystá ke kradmému činu, vystoupí na chodník, vrazí kolenem do dvířek komory a zmizí v ní. Vrátí se bez ošatky a s kloboukem naraženým postaru. Otočí klíčem komory a schová jej v kapse. Pak stojí dlouho na chodníčku – v záplavě slunce, jež posunuje jeho stín po zdi – nerozhodně a tupě.
 
+</section>
+
+<section>
+
 Tlachač nemůže dospat. Snad se mu zdá, že bez něho by líný tep Bytně ustal nadobro. Minulá noc mu nedopřála klidu. Vrazil do sebe stopku hořké a zasedl k talíři vytouženého guláše, když ho psí bláznění vyhnalo z přístavu sotva dosaženého. Slídil pak marně s ponocným do čtyř hodin ráno po jeho příčině. A máme chvilku po desáté a už se tu zase otáčí kolem zelinářských stánků, třebaže službu má jeho mladší kolega.
 
 Z řečí, jež kolem sebe Tlachač vyslechl, dochází k závěru, že se na dnešek nepřihodilo nic, co by mu přes všechnu dbalost uniklo. Jenom ke Koníčku přibyl po půlnoci nový host, ale to je také všechno. A tak i Tlachač, vzpomínaje nadto na všechno, co se mu minulé noci přihodilo a co mu bylo vyslechnout, usoudí se všemi ostatními Byteňskými, že vším byl vinen jenom ten bláznivý měsíc. Upokojen tím, oddá se malátné náladě toho rána, postaví se na okraj chodníku, složí ruce za zády, vypne hruď a pomžourává po nakupujících ženách. Nepodezřívejme ho zbytečně, strážník nemá v sobě nic kocouřího a mlsného, ale ovdověl přece jen příliš záhy na svou zdatnost, a pohled na ňadro a oblý bok v něm probouzí více vzpomínek a teskné něhy než chtivé žádosti. Vzdychá občas z hloubi své mohutné hrudi a laská a miluje celý ten tlum žen, ač by po žádné z nich nevztáhl ruku. I v tom zůstává strážníkem, jehož péči byla svěřena bezpečnost statků i lidí.
@@ -164,6 +174,10 @@ Na své cestě do soudní budovy je Emanuel Kvis nucen projít parčíkem, zauj�
 Stojí tu a naslouchá, jeho tvář uvadá, zaplňuje se vráskami, byla nehotová, jako v rychlosti načrtnutá a bez výrazu ještě před chvílí, teď se k ní čas vrátil jako k zapomenutému dílu a dokončuje svou práci chvatnými, drsnými surovými vrypy, pracuje překotně a ne­urvale, jako by se mstil, tvoří tvář starce-stařeny, naprosto bezpohlavní, ryzí neutrum, to stáří, dost, dál už nelze, dechnu ještě a rozpadne se to všechno v popel. Nikdo tu není svědkem té proměny. Kvisova prsa se propadla a záda shrbila. Opírá se těžce o hůl a sípavě dýchá. Na jasanu dokulata zastřiženém zacvrliká žebravá pěnkava. Návštěvníci tohoto místa mívají pro ni v kapsách pamlsky. Slétne na zem k nohám Emanuela Kvise. Tvář se pohne, všechny vrásky se sběhnou v masku strašlivé námahy nebo vzteku, ale ta hned pukne a rozpadne se jako příliš tenká skořápka, tady je zase ta stará tvář, kterou známe, tvář nedohotovená a prázdná, tvář bez výrazu a písma let. Kvis se vzpřímí, dokonce se trochu vypne v prsou, a celý se otřese jako pod závanem mrazivého chladu. Pěnkava, hopkující u jeho nohou, vzlétne s úzkostným vypísknutím.
 
 Emanuel Kvis pozdvihne ruku s hůlkou a švihne po nejbližším z pramínků, tryskajících z rybích tlam. Hůlka jím prolétne, odstříkne několik kapek a neporušený čůrek teče a zvoní dál. A Kvis vyjde rychlým strojovým krokem z parčíku.
+
+</section>
+
+<section>
 
 Po tu dobu, co spolu projednávají nutné záležitosti, cítí soudce Dastych, i když se na něho právě nedívá, že je svým návštěvníkem dychtivě pozorován. Soudce je ovšem zvyklý napjatým pohledům, plným očekávání, upřeným na svou tvář. Třebaže, bohudíky, nerozhoduje o věcech života a smrti, soudí přece jen o právu a bezpráví, a ti, kdo právo hledají, i ti, kdo by mu chtěli uniknout nebo je oklamat, snaží se mu vyčíst z očí, jakou shledává jejich při a k jakému závěru asi směřuje, ještě dříve než vynese rozhodná slova. Ale za celou svou soudcovskou činnost nesetkal se dosud s člověkem, který by se na něho díval tímto způsobem. Soudce neví, jak by přesně označil ten pohled, a je tím zneklidněn více než samou skutečností, že je takto pozorován. Nehledá opis, nýbrž slovo, jež by odpovídalo zjevu jako odlitek tvárnici. I předstírá, že se znovu zahloubává do zkoumání dokladů, jež mu návštěvník předložil, třebaže o jejich správnosti a průkaznosti se už přesvědčil. Hledá souvislost mezi nápadností ústroje a bezvýrazností tváře. Starosvětskost oblečení jako by v sobě měla něco usedlého a odmítavého, a zároveň bláznivého a vyzývavého.
 
@@ -303,6 +317,10 @@ Nejpodivnější na této historce je, že stařík se opravdu toho, o čem vě
 
 Hezká historka, na mou věru. Ale co má společného Filip Dastych, vzdělaný právník, vážený a neúplatný sudí a rozmyslný muž, se šíleným výměnkářem? Nic, zhola a načisto nic, jen trochu té krve.
 
+</section>
+
+<section>
+
 Elektrický motor v řezárně vydá táhlý hvizd, než se rozběhne naplno a přejde v tichý dusot pravidelných obrátek. Pak se ozve řezačka: chrust, chrust, rychleji: chrust, chrust, chrust, chrust, stále rychleji, až i ona se ustálí na tempu, sděleném jí převodním řemenem. Naslouchaje zpovzdáli tomuto zvuku, můžeš mít dojem, jako by život na statku běžel sám, řízen neviditelnými skřítky, a nepotřeboval lidských rukou.
 
 Statkář Josef Dastych sedí v kanceláři, v tom zamykaném, krom něho nikomu přístupném pokoji. Sedí ve starém tvrdém křesle, potaženém zčernalou hovězinou, v němž sedával jeho otec. Jenomže nebožtík Gabriel Dastych tu smlouval pachty, naléval rozum šafáři, vrtal se v odborných knihách a vymýšlel chytračiny, jež mu vždycky přinesly do kapsy.
@@ -321,10 +339,18 @@ V dubové polici vedle psacího stolu spí za těžkou jelenicovou záclonou kn
 
 Čte a věty se mu člení v slova a slova hynou opuštěna svými druhy. Bloudí chodbami jeho mozku, jako by to byl dům bez oken, každou chvíli narážejí na dveře, k nimž nemají klíče, a křičí hrůzou, dovolávajíce se světla, pomoci, osvobození. Zmírají každé jinde a statkářovy myšlenky zakopávají na svých cestách o jejich kosti, o vyschlé mumie slov, jimž nedovedou vdechnout život. Vlekou je bezradně s sebou, dokud je někde neztratí nebo nenaleznou nové. Ale často se jich polekají a rozpadnou se vedle nich. Pak není už slyšet nic než plíživé šelesty, a statkář, lokty na okraji stolu a ruce na uších, oči vytřeštěné, ale nevidoucí, čeká, jakou dnes na sebe vezmou podobu. Proč ti uhynul už třetí vrh prasátek ve čtvrt roce? Co tě napadlo vysít kmín na Shoně? Na Shoně kmín, chacha. Proč je prázdná stáj pro plemeníky? Pšenici sbírá po zrníčku, desetitisíce se mu sypou z hrsti. Neudržíš! Neudržíš! Dal mrkev na Pláňova a vyhnila mu. Čtyry strychy mrkve. Co je to tu za smrad, lidičky? To Pepek Dastychů, pan statkář, sklízí mrkev. Čtyry strychy mrkve.
 
+</section>
+
+<section>
+
 _Na Pláňovech mrkev hnije,  
 Pepek Dastych se v ní ryje.  
 Ryje se v ní jako prase,  
 zaseje ji na rok zase._
+
+</section>
+
+<section>
 
 – Kušte!
 
@@ -359,3 +385,5 @@ Na dvoře stařík Balchán přičapne k zemi a přitiskne si dlaně na uši.
 _[2](./resources/undefined) Usmyslila si. _Pozn. red.__
 
 _[3](./resources/undefined) Pantofle s dřevěnou podrážkou a s horní částí dřevěnou nebo koženou. _Pozn. red.__
+
+</section>

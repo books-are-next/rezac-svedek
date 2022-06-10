@@ -3,6 +3,8 @@ title: KAPITOLA TŘETÍ Zahradní slavnost
 contentType: prose
 ---
 
+<section>
+
 Muzika vyhrává a slunce, procezené korunami stromů, padá na trávník. Křídlovka stoupá na špičky a zalká vysoko, až se jí tón roztřepí přepjatou slastí, štěbenec dumlá svou melodii jako kluk cukrovou tyčinku, a když to nejmíň očekáváš, uchichtne se výsměšně, viola se vemlouvá jako milenec v podvečer, pikolka bublá i cvrliká, zmizí a opět se vznese, basa vás drží pohromadě, vy smečko třeštidel a opilců, ale housle, ach housličky, ty můj smutku a opojení, ve vás zpíváme a pláčeme všichni.
 
 Es-tam-tam, es-tam-tam, taá-rára-raá…
@@ -66,6 +68,10 @@ Kněz zavrtí hlavou.
 – Nevím. Ve vašem počínání je boj i pokání. Nevím opravdu, co bych vám měl poradit.
 
 Křídlovka si dovolí extempore; vysoký tón vzlétne vzhůru jako vlajka na stěžni a třepotá se tam dlouhou chvíli. Starosta pustí cigaretu z prstů a šlápne do trávy, kam dopadla.
+
+</section>
+
+<section>
 
 Emanuel Kvis vstoupí na scénu tak trochu divadelně. Křídlovka ještě haleká, jako by uváděla významnou osobnost, ale celkem si nikdo nevšimne jeho příchodu, krom děkana Brůžka a starosty. Kvis je oblečen jako vždy; nikdy za celou dobu svého pobytu v Bytni neměl na sobě jiných šatů, než jaké už byly popsány. Jen klobouk má dnes posazen trochu více do týla a ruku, přes niž má přehozen havelok, drží opřenu v bok. V druhé ruce vidíme známou černou hůlku a tak se podobá výletníku ze zapomenutých časů, který dorazil v horkém dni do spásné hospůdky za branou a rozhlíží se, kde by nejpohodlněji usedl.
 
@@ -156,6 +162,10 @@ Plachý dívčí úsměv se objeví na tváři paní Nolčové.
 – Nesmíte tomu přikládat takový význam. Je v ní nahromaděna spousta citu. Hledá, koho by jím podarovala.
 
 – Je zkrátka na rozcestí, prohlásí Eleonora, pronásledovaná nemilosrdnou touhou po přesnosti. A my můžeme jenom říci: Pámbu s ní a s námi taky.
+
+</section>
+
+<section>
 
 Lída se stočila na cestičku, vedoucí ke staré zděné besídce u zahradní zdi. Jde s hlavou sklopenou, protože slunce jí hází ostré střepiny světla do očí. Cesta je vysypána pískem barvy zralé pšenice, který je drobný, bez jediného kamínku, oschlý jenom na povrchu a vlhký vespod, jak jej ráno pokropili, posetý nehmotnými mincemi pablesků a stínů. Přijímá měkce kroky a nechává si jejich podobenky, ale to už je pouhý zbytek všeho, radost složila křídla a nějak opelichává. Lída to zná a bojí se příštích okamžiků. Za chvíli bude protivná sama sobě a bude nenávidět celý svět, za všechno, co kdy udělala, se bude stydět a trápit. Proč jenom je na světě, když je tak zbytečná?
 
@@ -272,6 +282,10 @@ Ale její syn jde s Lídou, třebaže stále dřevěněji, jak v něm roste v�
 – Jendo, zvolá zas paní Harazimová a v jejím hlase zazní puklý tón blížícího se pláče nebo hysterie. Syn se zastaví a ohlédne. V tu chvíli se Lída pustí jeho paže a ubíhá odtud.
 
 Jeník Harazim stojí jako solný sloup, zhlouplý a bezradný. Až se rozhodne, bude pozdě. A cestička před Lídou se zamžívá slzami, ale děvče utíká stále rychleji. Pryč odtud. Pro ni už slavnost skončila. Neměl se ohlédnout. Měl jít a neměl se ohlédnout. Byla to jen zkouška na představení, k němuž nemuselo nikdy dojít – neměl však selhat ani zde.
+
+</section>
+
+<section>
 
 Karbaníci se najdou i při posledním soudu, neztratí se z davu ostatních hříšníků, ale slezou se pěkně dohromady. Nebudou-li mít jiných karet, nastříhají si je ze svých rouch, rubášů a říz a jejich – malá domů, – sto a sedma, – ještě list, – barva, páni, – voko bere, – chci to vidět a různé hráčské průpovídky budou zaznívat ještě před božím trůnem. Jejich pekelná muka pak nebudou záležet v žáru pod kotli, v nichž se mají péci, nýbrž v tom, že nebudou moci k sobě, aby si hodili partičku.
 
@@ -508,3 +522,5 @@ Soudce chvíli mlčí a dívá se zamyšleně na svého společníka. Nemůže 
 * * *
 
 _[4](./resources/undefined) Špičky prstů. Pozn. red._
+
+</section>
