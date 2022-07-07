@@ -387,8 +387,16 @@ Něco se bělá u postranního držadla kufru. Jmenovka. Alespoň ti poví, kte
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 _Emanuel Kvis  
 Byteň_
+
+</div>
+
+</div>
 
 </section>
 
