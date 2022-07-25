@@ -1,0 +1,256 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Svědek",
+  "author": "Václav Řezáč",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "rezac-svedek-1aa09e4",
+  "revision": "1aa09e4",
+  "readingOrder": [
+    "promo.html",
+    "svedek_005.html",
+    "svedek_006.html",
+    "svedek_007.html",
+    "svedek_008.html",
+    "svedek_009.html",
+    "svedek_010.html",
+    "svedek_011.html",
+    "svedek_012.html",
+    "svedek_013.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Jul 25 2022 11:58:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658750281900
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "svedek_005.html",
+      "toc": []
+    },
+    {
+      "title": "KAPITOLA PRVNÍ Měsíčná noc",
+      "file": "svedek_005.html",
+      "words": 13543,
+      "chars": 79271,
+      "ideas": 231,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "svedek_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA PRVNÍ Měsíčná noc",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA DRUHÁ Bratři",
+      "file": "svedek_006.html",
+      "words": 10507,
+      "chars": 61879,
+      "ideas": 180,
+      "role": "chapter",
+      "order": 2,
+      "prev": "svedek_005.html",
+      "next": "svedek_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA DRUHÁ Bratři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA TŘETÍ Zahradní slavnost",
+      "file": "svedek_007.html",
+      "words": 11041,
+      "chars": 63826,
+      "ideas": 253,
+      "role": "chapter",
+      "order": 3,
+      "prev": "svedek_006.html",
+      "next": "svedek_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA TŘETÍ Zahradní slavnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA ČTVRTÁ Starostovo odpoledne",
+      "file": "svedek_008.html",
+      "words": 11548,
+      "chars": 67962,
+      "ideas": 233,
+      "role": "chapter",
+      "order": 4,
+      "prev": "svedek_007.html",
+      "next": "svedek_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA ČTVRTÁ Starostovo odpoledne",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA PÁTÁ Nepřekročitelná hranice",
+      "file": "svedek_009.html",
+      "words": 10107,
+      "chars": 57946,
+      "ideas": 182,
+      "role": "chapter",
+      "order": 5,
+      "prev": "svedek_008.html",
+      "next": "svedek_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA PÁTÁ Nepřekročitelná hranice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA ŠESTÁ Všechny cesty vedou na náměstí",
+      "file": "svedek_010.html",
+      "words": 12029,
+      "chars": 69176,
+      "ideas": 233,
+      "role": "chapter",
+      "order": 6,
+      "prev": "svedek_009.html",
+      "next": "svedek_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA ŠESTÁ Všechny cesty vedou na náměstí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA SEDMÁ Zvon spravedlivého",
+      "file": "svedek_011.html",
+      "words": 14730,
+      "chars": 86350,
+      "ideas": 220,
+      "role": "chapter",
+      "order": 7,
+      "prev": "svedek_010.html",
+      "next": "svedek_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA SEDMÁ Zvon spravedlivého",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA OSMÁ Hořící strom",
+      "file": "svedek_012.html",
+      "words": 7338,
+      "chars": 43298,
+      "ideas": 135,
+      "role": "chapter",
+      "order": 8,
+      "prev": "svedek_011.html",
+      "next": "svedek_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA OSMÁ Hořící strom",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA DEVÁTÁ Druhá měsíčná noc",
+      "file": "svedek_013.html",
+      "words": 7346,
+      "chars": 42551,
+      "ideas": 133,
+      "role": "chapter",
+      "order": 9,
+      "prev": "svedek_012.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA DEVÁTÁ Druhá měsíčná noc",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 138,
+      "chars": 896,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
+      "prev": "svedek_013.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 98332,
+      "chars": 573184,
+      "ideas": 1821
+    },
+    "chapters": {
+      "words": 98189,
+      "chars": 572259,
+      "ideas": 1800
+    }
+  }
+}
