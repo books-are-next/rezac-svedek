@@ -1,1 +1,399 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "title": "Svědek",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Václav Řezáč",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-11-16T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp",
+      "contentType": "prose"
+    },
+    "elements": {
+      "title": "MLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.*\nMLP.uroven1.PARAL\nMLP.uroven2.basne\nMLP.uroven2.kapitola\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*",
+      "subtitle": "",
+      "h2": "MLP.UROVEN3.*\nMLP.uroven3.nadpis.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.0.\n.+12.12\n.+12.12.\ne.bookodsazeniodstavce.*pred.*\ne.bookversebezpredsazeni.*pred.*",
+      "brAfter": ".+0.12\n.+0.12.\n.+12.12\n.+12.12.\ne.bookodsazeniodstavce.*za.*\ne.bookversebezpredsazeni.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.citat\nMLP.dopis.*\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
+      "em": ".*-I\n.*-I-.*\n.*_I\n.*_I_.*\n.*kurziva.*\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\nMLP.titulka.prekladatel\nMLP.venovani\nMLP.verse.*\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": ".*-B\n.*-B-\n.*_B\n.*_B_\n.*tucna.*\n.*tucne.*\nMLP.licence.paragraf\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\nMLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "svedek_001.md",
+            "xhtml": "svedek_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "svedek_002.md",
+            "xhtml": "svedek_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "svedek_003.md",
+            "xhtml": "svedek_003.xhtml",
+            "id": 2,
+            "role": "about",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "svedek_004.md",
+            "xhtml": "svedek_004.xhtml",
+            "id": 3,
+            "role": "about",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "svedek_005.md",
+            "xhtml": "svedek_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Měsíčná noc"
+          },
+          {
+            "filename": "svedek_006.md",
+            "xhtml": "svedek_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Bratři"
+          },
+          {
+            "filename": "svedek_007.md",
+            "xhtml": "svedek_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zahradní slavnost"
+          },
+          {
+            "filename": "svedek_008.md",
+            "xhtml": "svedek_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Starostovo odpoledne"
+          },
+          {
+            "filename": "svedek_009.md",
+            "xhtml": "svedek_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Nepřekročitelná hranice"
+          },
+          {
+            "filename": "svedek_010.md",
+            "xhtml": "svedek_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Všechny cesty vedou na náměstí"
+          },
+          {
+            "filename": "svedek_011.md",
+            "xhtml": "svedek_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zvon spravedlivého"
+          },
+          {
+            "filename": "svedek_012.md",
+            "xhtml": "svedek_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Hořící strom"
+          },
+          {
+            "filename": "svedek_013.md",
+            "xhtml": "svedek_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Druhá měsíčná noc"
+          },
+          {
+            "filename": "svedek_014.md",
+            "xhtml": "svedek_014.xhtml",
+            "id": 13,
+            "role": "about",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Svědek",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Václav Řezáč",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-11-16T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svedek_001.md",
+        "xhtml": "svedek_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svedek_002.md",
+        "xhtml": "svedek_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svedek_003.md",
+        "xhtml": "svedek_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svedek_004.md",
+        "xhtml": "svedek_004.xhtml"
+      },
+      {
+        "titleSuggest": "KAPITOLA PRVNÍ Měsíčná noc",
+        "subtitleSuggest": "",
+        "filename": "svedek_005.md",
+        "xhtml": "svedek_005.xhtml"
+      },
+      {
+        "titleSuggest": "KAPITOLA DRUHÁ Bratři",
+        "subtitleSuggest": "",
+        "filename": "svedek_006.md",
+        "xhtml": "svedek_006.xhtml"
+      },
+      {
+        "titleSuggest": "KAPITOLA TŘETÍ Zahradní slavnost",
+        "subtitleSuggest": "",
+        "filename": "svedek_007.md",
+        "xhtml": "svedek_007.xhtml"
+      },
+      {
+        "titleSuggest": "KAPITOLA ČTVRTÁ Starostovo odpoledne",
+        "subtitleSuggest": "",
+        "filename": "svedek_008.md",
+        "xhtml": "svedek_008.xhtml"
+      },
+      {
+        "titleSuggest": "KAPITOLA PÁTÁ Nepřekročitelná hranice",
+        "subtitleSuggest": "",
+        "filename": "svedek_009.md",
+        "xhtml": "svedek_009.xhtml"
+      },
+      {
+        "titleSuggest": "KAPITOLA ŠESTÁ Všechny cesty vedou na náměstí",
+        "subtitleSuggest": "",
+        "filename": "svedek_010.md",
+        "xhtml": "svedek_010.xhtml"
+      },
+      {
+        "titleSuggest": "KAPITOLA SEDMÁ Zvon spravedlivého",
+        "subtitleSuggest": "",
+        "filename": "svedek_011.md",
+        "xhtml": "svedek_011.xhtml"
+      },
+      {
+        "titleSuggest": "KAPITOLA OSMÁ Hořící strom",
+        "subtitleSuggest": "",
+        "filename": "svedek_012.md",
+        "xhtml": "svedek_012.xhtml"
+      },
+      {
+        "titleSuggest": "KAPITOLA DEVÁTÁ Druhá měsíčná noc",
+        "subtitleSuggest": "",
+        "filename": "svedek_013.md",
+        "xhtml": "svedek_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svedek_014.md",
+        "xhtml": "svedek_014.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_svedek.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "CharOverride-2",
+      "CharOverride-3",
+      "CharOverride-6",
+      "HorizontalRule-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_pozn_pod_carou",
+      "MLP_text",
+      "MLP_text_-0-12-",
+      "MLP_text_-12-0-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_uprostred_-I-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven2_kapitola",
+      "MLP_verse_-I-_-12-12-",
+      "MLP_znak_kurziva_11b",
+      "MLP_znak_kurziva_9b",
+      "ParaOverride-1",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "ParaOverride-5",
+      "ParaOverride-6",
+      "Z-kladn--textový-r-meček",
+      "_idFootnote",
+      "_idFootnoteAnchor",
+      "_idFootnoteLink",
+      "_idFootnotes",
+      "_idGenCharOverride-1",
+      "_idGenColorInherit",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "rezac-svedek"
+    },
+    "generatedAt": 1658413430450
+  }
+}
