@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "rezac-svedek-1863269",
-  "revision": "1863269",
+  "identifier": "rezac-svedek-629fb4a",
+  "revision": "629fb4a",
   "readingOrder": [
     "promo.html",
     "svedek_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Jul 25 2022 11:59:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658750364781
+    "date": "Mon Aug 01 2022 13:30:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1659360631763
   },
   "documents": [
     {
@@ -223,9 +223,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 138,
-      "chars": 896,
-      "ideas": 17,
+      "words": 142,
+      "chars": 932,
+      "ideas": 18,
       "role": "about",
       "order": null,
       "prev": "svedek_013.html",
@@ -243,9 +243,9 @@
   ],
   "totals": {
     "all": {
-      "words": 98332,
-      "chars": 573184,
-      "ideas": 1821
+      "words": 98336,
+      "chars": 573220,
+      "ideas": 1822
     },
     "chapters": {
       "words": 98189,

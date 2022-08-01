@@ -9,7 +9,8 @@
       "modified": "2021-11-16T00:00:00.000Z",
       "edition": "beletrie",
       "publisherShort": "mkp",
-      "contentType": "prose"
+      "contentType": "prose",
+      "isbn": "978-80-274-2688-1"
     },
     "elements": {
       "title": "MLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.*\nMLP.uroven1.PARAL\nMLP.uroven2.basne\nMLP.uroven2.kapitola\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*",
@@ -96,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Měsíčná noc"
+            "title": "Měsíčná noc",
+            "children": []
           },
           {
             "filename": "svedek_006.md",
@@ -109,8 +110,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Bratři"
+            "title": "Bratři",
+            "children": []
           },
           {
             "filename": "svedek_007.md",
@@ -122,8 +123,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zahradní slavnost"
+            "title": "Zahradní slavnost",
+            "children": []
           },
           {
             "filename": "svedek_008.md",
@@ -135,8 +136,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Starostovo odpoledne"
+            "title": "Starostovo odpoledne",
+            "children": []
           },
           {
             "filename": "svedek_009.md",
@@ -148,8 +149,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Nepřekročitelná hranice"
+            "title": "Nepřekročitelná hranice",
+            "children": []
           },
           {
             "filename": "svedek_010.md",
@@ -161,8 +162,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Všechny cesty vedou na náměstí"
+            "title": "Všechny cesty vedou na náměstí",
+            "children": []
           },
           {
             "filename": "svedek_011.md",
@@ -174,8 +175,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zvon spravedlivého"
+            "title": "Zvon spravedlivého",
+            "children": []
           },
           {
             "filename": "svedek_012.md",
@@ -187,8 +188,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Hořící strom"
+            "title": "Hořící strom",
+            "children": []
           },
           {
             "filename": "svedek_013.md",
@@ -200,8 +201,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Druhá měsíčná noc"
+            "title": "Druhá měsíčná noc",
+            "children": []
           },
           {
             "filename": "svedek_014.md",
@@ -393,6 +394,6 @@
       "user": "books-are-next",
       "repo": "rezac-svedek"
     },
-    "generatedAt": 1658750221719
+    "generatedAt": 1659360535843
   }
 }

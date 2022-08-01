@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2688-1
 readingOrder:
   - promo.html
   - svedek_005.html
