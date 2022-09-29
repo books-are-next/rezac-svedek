@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "rezac-svedek-629fb4a",
-  "revision": "629fb4a",
+  "identifier": "rezac-svedek-5d217cc",
+  "revision": "5d217cc",
   "readingOrder": [
     "promo.html",
     "svedek_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Aug 01 2022 13:30:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1659360631763
+    "date": "Thu Sep 29 2022 21:33:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487233929
   },
   "documents": [
     {
@@ -44,7 +44,7 @@
       "title": "KAPITOLA PRVNÍ Měsíčná noc",
       "file": "svedek_005.html",
       "words": 13543,
-      "chars": 79271,
+      "chars": 79272,
       "ideas": 231,
       "role": "chapter",
       "order": 1,
@@ -63,9 +63,9 @@
     {
       "title": "KAPITOLA DRUHÁ Bratři",
       "file": "svedek_006.html",
-      "words": 10507,
-      "chars": 61879,
-      "ideas": 180,
+      "words": 10506,
+      "chars": 61886,
+      "ideas": 179,
       "role": "chapter",
       "order": 2,
       "prev": "svedek_005.html",
@@ -84,7 +84,7 @@
       "title": "KAPITOLA TŘETÍ Zahradní slavnost",
       "file": "svedek_007.html",
       "words": 11041,
-      "chars": 63826,
+      "chars": 63827,
       "ideas": 253,
       "role": "chapter",
       "order": 3,
@@ -104,7 +104,7 @@
       "title": "KAPITOLA ČTVRTÁ Starostovo odpoledne",
       "file": "svedek_008.html",
       "words": 11548,
-      "chars": 67962,
+      "chars": 67963,
       "ideas": 233,
       "role": "chapter",
       "order": 4,
@@ -124,7 +124,7 @@
       "title": "KAPITOLA PÁTÁ Nepřekročitelná hranice",
       "file": "svedek_009.html",
       "words": 10107,
-      "chars": 57946,
+      "chars": 57947,
       "ideas": 182,
       "role": "chapter",
       "order": 5,
@@ -143,9 +143,9 @@
     {
       "title": "KAPITOLA ŠESTÁ Všechny cesty vedou na náměstí",
       "file": "svedek_010.html",
-      "words": 12029,
-      "chars": 69176,
-      "ideas": 233,
+      "words": 12028,
+      "chars": 69183,
+      "ideas": 232,
       "role": "chapter",
       "order": 6,
       "prev": "svedek_009.html",
@@ -163,9 +163,9 @@
     {
       "title": "KAPITOLA SEDMÁ Zvon spravedlivého",
       "file": "svedek_011.html",
-      "words": 14730,
-      "chars": 86350,
-      "ideas": 220,
+      "words": 14729,
+      "chars": 86357,
+      "ideas": 219,
       "role": "chapter",
       "order": 7,
       "prev": "svedek_010.html",
@@ -184,7 +184,7 @@
       "title": "KAPITOLA OSMÁ Hořící strom",
       "file": "svedek_012.html",
       "words": 7338,
-      "chars": 43298,
+      "chars": 43297,
       "ideas": 135,
       "role": "chapter",
       "order": 8,
@@ -204,7 +204,7 @@
       "title": "KAPITOLA DEVÁTÁ Druhá měsíčná noc",
       "file": "svedek_013.html",
       "words": 7346,
-      "chars": 42551,
+      "chars": 42550,
       "ideas": 133,
       "role": "chapter",
       "order": 9,
@@ -224,7 +224,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 142,
-      "chars": 932,
+      "chars": 933,
       "ideas": 18,
       "role": "about",
       "order": null,
@@ -243,14 +243,14 @@
   ],
   "totals": {
     "all": {
-      "words": 98336,
-      "chars": 573220,
-      "ideas": 1822
+      "words": 98333,
+      "chars": 573244,
+      "ideas": 1819
     },
     "chapters": {
-      "words": 98189,
-      "chars": 572259,
-      "ideas": 1800
+      "words": 98186,
+      "chars": 572282,
+      "ideas": 1797
     }
   }
 }

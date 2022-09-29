@@ -355,7 +355,7 @@ Soudce se již dosti vzpamatoval, aby nyní mohl čelit i svému strachu ze ses
 
 – Nemám kdy, abych ti to vysvětloval.
 
-Nepočítá však s proradností náhody, s tím silničním lapkou, který tak rád sklízí, co nesel. Někdo zaklepe na dveře, spojující jeho úřadovnu se spisovnou. Soudce řekne mocně a téměř rozveseleně: – Dále, očekávaje od tohoto rušitele vysvobození od Eleonořiny návštěvy. Dveře se otevřou a starý aktuárský úředník sem vsune polovičku těla, olysalou prošedivělou hlavu, ramena v listráčku[6](./resources/undefined) a ruce svírající nějaká akta.
+Nepočítá však s proradností náhody, s tím silničním lapkou, který tak rád sklízí, co nesel. Někdo zaklepe na dveře, spojující jeho úřadovnu se spisovnou. Soudce řekne mocně a téměř rozveseleně: – Dále, očekávaje od tohoto rušitele vysvobození od Eleonořiny návštěvy. Dveře se otevřou a starý aktuárský úředník sem vsune polovičku těla, olysalou prošedivělou hlavu, ramena v listráčku[^6] a ruce svírající nějaká akta.
 
 – Račte prominout, pane přednosto, domníval jsem se, že ráčíte být sám.
 
@@ -378,7 +378,5 @@ Eleonora ustoupí o krok a v jejích očích je hrůza a v jejím hrdle kř
 A vyběhne plačíc z úřadovny.
 
 * * *
-
-_[6](./resources/undefined) Kabát z listru, lehké lesklé vlněné látky. _Pozn. red.__
-
+[^6]: Kabát z listru, lehké lesklé vlněné látky. _Pozn. red._
 </section>

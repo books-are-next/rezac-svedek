@@ -109,7 +109,7 @@ Slunce tedy rozhodne o chvíli, kdy se to vše stane, a starosta sám se učin
 
 Stín stoupá po tulákových rozhalených prsou, pokrytých zešedivělým porostem a příškvarem špíny, a blíží se k vypjatému hrdlu.
 
-A tu se přihodí něco, s čím starosta nepočítal. Spáč přestane chrápat, mlaskne a polkne těžce okoralé sousto spánku. Na krku mu vystoupí mohutný ohryzek, vyjede vzhůru až kamsi pod bradu a opět se vrací. Starostův klid se zřítí s rachotem, který kdyby mohl zaznít z jeho mozku do vnějšího světa, vylekal by celý les jako výstřel. Rudolf Nolč, vrcholek pyramidy svého rodu i bohatství jím nakupeného, manžel Kateřiny Mochnové z Měnína, elegantní a chladný promeneur[5](./resources/undefined) ze světových lázní, vlídný, ale uzavřený byteňský starosta, stoupl sám v sobě na podkop, o němž neměl tušení. Strašná, nepoznaná zuřivost v něm vybuchne. Pěsti se mu zatnou jako v křeči a na čele mu vytryskne pot. Zlomek vteřiny ještě a vrhne se na spáče se zvířecím, daleko slyšitelným řevem. Ale zatím si splete slina v tulákově propáleném hrdle cestu a dostane se do průdušky. Kašel ho vymrští, posadí a chvíli jím neurvale lomcuje. Chlap se dusí, bije pěstmi do země, z očí mu stříkají slzy a z úst sliny.
+A tu se přihodí něco, s čím starosta nepočítal. Spáč přestane chrápat, mlaskne a polkne těžce okoralé sousto spánku. Na krku mu vystoupí mohutný ohryzek, vyjede vzhůru až kamsi pod bradu a opět se vrací. Starostův klid se zřítí s rachotem, který kdyby mohl zaznít z jeho mozku do vnějšího světa, vylekal by celý les jako výstřel. Rudolf Nolč, vrcholek pyramidy svého rodu i bohatství jím nakupeného, manžel Kateřiny Mochnové z Měnína, elegantní a chladný promeneur[^5] ze světových lázní, vlídný, ale uzavřený byteňský starosta, stoupl sám v sobě na podkop, o němž neměl tušení. Strašná, nepoznaná zuřivost v něm vybuchne. Pěsti se mu zatnou jako v křeči a na čele mu vytryskne pot. Zlomek vteřiny ještě a vrhne se na spáče se zvířecím, daleko slyšitelným řevem. Ale zatím si splete slina v tulákově propáleném hrdle cestu a dostane se do průdušky. Kašel ho vymrští, posadí a chvíli jím neurvale lomcuje. Chlap se dusí, bije pěstmi do země, z očí mu stříkají slzy a z úst sliny.
 
 Zdá se, že nemá být konec zvratům, jimiž starosta dnes prochází. Zuřivost v něm opadne, zanechá ho na břehu střízlivosti trochu omámeného a nyní palčivá sůl soucitu se mu rozpouští v krvi a vniká do srdce.
 
@@ -476,7 +476,5 @@ Plášť se rozlétne do stran, jak Kvis rozhodí rukama.
 Havelok zatmí světlý obdélník dveří a pak z něho vypadne jak obraz z rámu. Starosta zavře a stojí ve tmě průjezdu. Slyší z kuchyně třesk rendlíků a zpěv Mariny Tlachačové. Už nikdy, říká si a cítí jistotu těch slov. Leč to mu nestačí. Toto je skončeno, ale co přijde dál? Protože život bude přece pokračovat. Myslí na svou ženu, na niž tak hluboce zapomněl dnes odpoledne, myslí na ni a na snového chlapce, kterého nikdy nepoznal. A chtěl by něco domyslet, je-li to, co se v něm hýbe, ještě myšlenka, prolomit se zdí, která je pevnější tohoto mochnovského zdiva, jež mělo chránit rod před palbou času. Tma by se měla rozevřít a někdo by měl k němu přijít po mostě bledého světla. Ale je příliš unaven únavou, jaké dosud nepoznal, tak unaven, jako by nemohl ani unést vlastní tělo a srdce.
 
 * * *
-
-_[5](./resources/undefined) Průvodce. _Pozn. red.__
-
+[^5]: Průvodce. _Pozn. red._
 </section>

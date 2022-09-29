@@ -367,7 +367,7 @@ Chce pospíchat, ale řezavá bolest v podbřišku mu zkracuje a zpomaluje kro
 
 <section>
 
-Byteňské nádraží je vzdáleno od kašny na náměstí, která je takřka geometricky přesným středem Bytně, dobrých dvacet pět minut cesty. Běžící chlapci snad zdolají tuto vzdálenost za sedmnáct minut i méně, ale chlapecké nohy nemohou být měřítkem byteňského občana, který ví, co váží a představuje. Je však znám, vzpomínán a obdivován výkon Ferdinanda Korce, kdysi facíra[1](./resources/undefined), postupně ponocného, polního a lesního hajného a nakonec veřejného posluhy byteňského, který ji jednou vedle svého psího spřežení urazil za dvacet tři minuty. Byl ale tehdy tak udolán a takřka poděšen svým rekordem, že se nemohl vzpamatovat ani po třech sklenicích chudějovického. Od těch dob, brzdě přílišnou horlivost svých tlamatých hafanů, uštipoval tuto vzdálenost dobře odpočítaných třicet minut.
+Byteňské nádraží je vzdáleno od kašny na náměstí, která je takřka geometricky přesným středem Bytně, dobrých dvacet pět minut cesty. Běžící chlapci snad zdolají tuto vzdálenost za sedmnáct minut i méně, ale chlapecké nohy nemohou být měřítkem byteňského občana, který ví, co váží a představuje. Je však znám, vzpomínán a obdivován výkon Ferdinanda Korce, kdysi facíra[^1], postupně ponocného, polního a lesního hajného a nakonec veřejného posluhy byteňského, který ji jednou vedle svého psího spřežení urazil za dvacet tři minuty. Byl ale tehdy tak udolán a takřka poděšen svým rekordem, že se nemohl vzpamatovat ani po třech sklenicích chudějovického. Od těch dob, brzdě přílišnou horlivost svých tlamatých hafanů, uštipoval tuto vzdálenost dobře odpočítaných třicet minut.
 
 Nádraží leží nalevo od okresní silnice, která počíná nebo končí v Bytni právě naproti Roubalově hospodě, poslednímu byteňskému výčepu na této straně. Silnice protíná trať a hrbolatí si to na Měnín, Palachy, Křtín, Rozmarovice a dále do kopců, kam už nesahají zájmy Byteňských a odkud si, pokud paměť sahá, nikdy nikdo nepřihnal krávu ani nedovezl nevěstu. Naproti od silnice mezi Bytní a tratí se rozlévá rybník Dělovec, sedmatřicet hektarů vodní plochy, ale dobrých pětačtyřicet borkoviště, mokřadel a sítin, které dosahují až k silnici a pokračují i na druhé straně za ní hezky daleko, než je z nich jakás takás louka. Nu, a právě naproti konci této louky, přes cestu, jež nevede dále než k němu, rozsedlo se byteňské nádraží, úřední a obytná budova v jednom a pod patro, pak skladiště s rampou, nezbytná zahrádka s besídkou, signální věžička, studna a ten známý domeček se dvěma vchody.
 
@@ -487,7 +487,5 @@ Nezjistí nic, co by v něm podnítilo podezření. Ale jeho psi ne­ustávají
 Psi už se této noci neutiší; jejich štěkot vybuchuje přes tu chvíli, jako by noví a noví cizinci vstupovali do Bytně, a neustane, dokud měsíc nezmizí pod obzorem a krátká předjitřní tma neponoří svět v milosrdné bezvědomí.
 
 * * *
-
-_[1](./resources/undefined) Člověk bez stálého zaměstnání, hanl. povaleč. Pozn. red._
-
+[^1]: Člověk bez stálého zaměstnání, hanl. povaleč. Pozn. red.
 </section>
