@@ -5,7 +5,7 @@ contentType: prose
 
 <section>
 
-Lítá tu jediná moucha, ale postačí. Dostala se sem otevřeným oknem a teď je nemůže najít. Zmehla si[2](./resources/undefined), že cesta ven vede tím druhým, zavřeným. Zlezla už, co se dalo zlézt, a ohledala bedlivě svým sosákem, nevynechala ani soudcův stůl. Soudce ji chvíli pozoroval, jak smýčí po papírech, pokračujíc v beznadějném průzkumu místních životních podmínek. Pak mávl rukou a odehnal ji.
+Lítá tu jediná moucha, ale postačí. Dostala se sem otevřeným oknem a teď je nemůže najít. Zmehla si[^2], že cesta ven vede tím druhým, zavřeným. Zlezla už, co se dalo zlézt, a ohledala bedlivě svým sosákem, nevynechala ani soudcův stůl. Soudce ji chvíli pozoroval, jak smýčí po papírech, pokračujíc v beznadějném průzkumu místních životních podmínek. Pak mávl rukou a odehnal ji.
 
 – Vša, muško, řekl a usmál se. Usmíval se vždycky, kdykoli se mu o samotě nahodilo zahánět mouchy. Usmíval se slovům i posunku, jichž při tom používal, i vzpomínce na matčina otce, po němž je zdědil.
 
@@ -358,7 +358,7 @@ Statkář odtrhne dlaně z uší a vzpřímí se nad stolem. Hlasy však utich
 
 Statkář sebere knihu, z níž se pokoušel číst, a vrátí ji na místo v polici, kde po ní zeje mezera. Pak se skloní a z prostory za nejtěžšími svazky vytáhne láhev a balíček. Láhev je až po hrdlo plná zlatožluté tekutiny; jak ji statkář nese, sluneční paprsek se jí dotkne a rozžehne v ní ohnivé pablesky. Dastych se na ni dívá, ruce, spočívající na opěradlech starého křesla, se zatínají a celé jeho tělo vzepřeno na loktech se vysouvá do výše a tuhne, hýždě se už ani nedotýkají sedadla. Pak toto napětí povolí, statkář se zhroutí do křesla, ale zároveň hmátne po láhvi, vytrhne z ní zátku a přistrčí ji k nosu. Čichá k ní náruživě, chtivě, tak na něho působí ten nadcházející doušek, že se celý roztřese. Láhev se vznáší zdvíhána třaslavýma rukama, dotýká se rtů, už zbývá jen naklonit a otevřít ústa. Ale statkář odvrátí hlavu, vrazí zátku do hrdla láhve a postaví ji na stůl. Padne zpátky do křesla, dýchá těžce, uklidňuje se, podobá se člověku, který dlouhé hodiny visel nad srázem a byl zachráněn ve chvíli, kdy slabost mu páčila prsty sevřené kolem spásného kmene.
 
-Zvenčí se přestala ozývat řezačka a její udýchaný chrustot nahradilo klepání dřevěných podrážek podělávků[3](./resources/undefined) a chřestění kravských řetězů. Polední krmení začalo. Statkář však nevnímá té změny.
+Zvenčí se přestala ozývat řezačka a její udýchaný chrustot nahradilo klepání dřevěných podrážek podělávků[^3] a chřestění kravských řetězů. Polední krmení začalo. Statkář však nevnímá té změny.
 
 Začal se zabývat něčím jiným. Vybalil z novin zánovní karty a rozmíchává je rukama ještě rozechvělýma, které se klidní, jakmile karty několikrát proběhnou z dlaně do dlaně. Pak je položí na stůl, sejme z hromádky dva svrchní listy, na něž čekal po celou tu tichou, zoufanlivou hru. Dvě esa. Nedovede si už vzpomenout, kolik nebo co na ně vsadil. Ostatně na tom teď nesejde. Drží dvě esa a nemusí se ani dívat, jaký list padne jeho protivníkovi. Vyhrál by, ať vsadil cokoli. Opře ty dvě karty o láhev s pálenkou a dívá se na ně u vytržení. Mohl by hrát, kdyby chtěl, to se rozumí, nikdo by mu v tom nemohl bránit, a vyhrával by. Ty dvě karty to dokazují. Všechny dřívější prohry nic neznamenají, nakonec mu každý den vyjdou dvě esa – dovede tu sedět tak dlouho, až se objeví. A mohl by pít jako nikdo druhý, mohl by do sebe lít celé noci ten zlatý oheň, radovat se z toho, jak se mu mísí s krví a koluje žhavě žilami, jak ho zdvíhá a unáší jako červnový oblak, vysoko nad zemí a skuhráním všech, kdož o něm pochybují, mohl by pít a přinášelo by mu to jenom větší sílu a jasnější pohled, ale kdo ví, kdo ví, snad by to také popohnalo vlak a přiblížilo srážku.
 
@@ -381,9 +381,5 @@ Statkář jde k hodinám s kukačkou, posune ručičky na jedenáctou a rozho
 Na dvoře stařík Balchán přičapne k zemi a přitiskne si dlaně na uši.
 
 * * *
-
-_[2](./resources/undefined) Usmyslila si. _Pozn. red.__
-
-_[3](./resources/undefined) Pantofle s dřevěnou podrážkou a s horní částí dřevěnou nebo koženou. _Pozn. red.__
-
+[^2]: Usmyslila si. _Pozn. red._[^3] Pantofle s dřevěnou podrážkou a s horní částí dřevěnou nebo koženou. _Pozn. red._
 </section>

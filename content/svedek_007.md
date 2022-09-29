@@ -447,7 +447,7 @@ Nejtek vyvalí své krví podlité oči, jako by dostal ránu do žaludku. Pak m
 
 – Jdi, vypraví ze sebe tak namáhavě, jako by se dusil, a dones dva koňaky Pepkovi Dastychovi a tomu Kvisovi.
 
-A stojí tu ještě, když děvče zmizelo, civí na prázdnou stěnu před sebou, jako by na ní trval Božčin planoucí obraz, a za zády drápe omítku, až se mu tipky[4](./resources/undefined) rozdírají do krve.
+A stojí tu ještě, když děvče zmizelo, civí na prázdnou stěnu před sebou, jako by na ní trval Božčin planoucí obraz, a za zády drápe omítku, až se mu tipky[^4] rozdírají do krve.
 
 Tak plaše, jako když pták usedne na římsu, poleká se čehosi za oknem a zmizí dříve, než se vzpamatuješ, postaví Božka podnos s dvěma sklenkami před statkáře a Kvise a zapadne mezi stromy a stoly. Josef Dastych ji snad ani neviděl, jeho oči utonuly v rozkolébaném tekutém ohni v těch dvou kalíšcích na dlouhých, útlých stvolech. Nesnaží se ani zadržet svou prudkou nedočkavost. Hmátne po sklence tlustými prsty, ztvrdlými prací; tenký stonek praskne a sťatý kalíšek se skutálí na stůl do nazlátlé kalužinky rozlitého koňaku. Statkář strne, dívá se utkvěle na svou ruku a pak odhodí štítivým pohybem, co mu zbylo ze sklenky v dlani. Zmocní se ho třasavka a zuby zadrkotají o sebe.
 
@@ -520,7 +520,5 @@ Soudce chvíli mlčí a dívá se zamyšleně na svého společníka. Nemůže 
 – Zajímavé, ačkoli opravdu trochu samotářské, řekne soudce a ušklíbne se. Škoda, že musím odejít. Dobrou noc.
 
 * * *
-
-_[4](./resources/undefined) Špičky prstů. Pozn. red._
-
+[^4]: Špičky prstů. Pozn. red.
 </section>

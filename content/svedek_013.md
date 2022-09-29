@@ -239,7 +239,7 @@ Jako by teprve nyní pochopila, co se stalo, Božka vypukne v pronikavý náře
 
 To je chvíle, kdy v mochnovském domě paní Kateřina otevře oči a malý okresní lékař, který se nad ní ustaraně a bezradně skláněl, si začne nadšeně mnout ruce.
 
-– Konečně. Tak tady jste, tady vás máme, zvolá, jako by ji vítal z daleké cesty. Vy jste nám ale dala co proto, paninko. Takovou katalepsii[12](./resources/undefined) jsem ještě neviděl.
+– Konečně. Tak tady jste, tady vás máme, zvolá, jako by ji vítal z daleké cesty. Vy jste nám ale dala co proto, paninko. Takovou katalepsii[^12] jsem ještě neviděl.
 
 Paní Kateřina se dívá dlouho nehybně, jako by nepoznávala svět, do něhož se vrátila. Okresní lékař však jí nepřestává poplácávat a hladit ruku a mluvit na ni. Starosta, který pobíhal po chodbě jako proklatec, zaslechne jeho hlas a otevře dveře ložnice. Paní Kateřina k nim stočí pohled, úsměv poznání jí rozsvítí tvář a vydechne:
 
@@ -296,7 +296,5 @@ Byteň je čistá a svítí v chladném podzimním slunci jako loď, která vy
 Jen mlýny ženských jazyků melou zrno dějů velkých i malých a mochnovská kašna uprostřed náměstí spřádá svou trojpramennou píseň o čase, který i nejtišší místa na světě nese dál a dál, vstříc novým dnům a novým událostem.
 
 * * *
-
-_[12](./resources/undefined) Strnulost (např. při hypnóze, epilepsii apod.). Pozn. red._
-
+[^12]: Strnulost (např. při hypnóze, epilepsii apod.). Pozn. red.
 </section>

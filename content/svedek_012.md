@@ -77,7 +77,7 @@ Lída využije té příležitosti klidně a beze spěchu.
 
 – Hrát sebe například, řekne zvolna a pokračuje ještě pomaleji. To je ta nejtěžší věc. Zahrát upřímně sebe. Jak byste to dokázal? Dovedu si vás představit, jak byste zahrál třeba mého strýce nebo pana starostu. Ale sebe? To byste byl v koncích, protože byste neměl co hrát.
 
-Na Kvise přichází záchvat dušení, padlo na něj tolik zklamání v posledních dnech, pokoušel se žít na cizí účet, ale nedařilo se mu to, a nyní to děvče mu to tady říká téměř doslova, jako by stálo přímo v něm. Šedne a popelaví ve tváři, syčivý samum[11](./resources/undefined) času jej ovane a jeho zrnka mu rozryjí líce tisícem vrásek. Lída se dívá na tu změnu polekaně, avšak beze strachu. Teď, myslí si, se mi tu svalí. Tamhle čeká Jeník, popadneme ho spolu, odneseme do lékárny a tam mu dáme čichnout čpavku. Už je to pryč, vrásky zmizely, jako by je odfoukl, to bych ráda věděla, kde se vůbec na něm nabraly, a pod očima mu zase naskočily ty falešné růžičky. Propána, to je komediant.
+Na Kvise přichází záchvat dušení, padlo na něj tolik zklamání v posledních dnech, pokoušel se žít na cizí účet, ale nedařilo se mu to, a nyní to děvče mu to tady říká téměř doslova, jako by stálo přímo v něm. Šedne a popelaví ve tváři, syčivý samum[^11] času jej ovane a jeho zrnka mu rozryjí líce tisícem vrásek. Lída se dívá na tu změnu polekaně, avšak beze strachu. Teď, myslí si, se mi tu svalí. Tamhle čeká Jeník, popadneme ho spolu, odneseme do lékárny a tam mu dáme čichnout čpavku. Už je to pryč, vrásky zmizely, jako by je odfoukl, to bych ráda věděla, kde se vůbec na něm nabraly, a pod očima mu zase naskočily ty falešné růžičky. Propána, to je komediant.
 
 Kvis uhodí několikrát hůlkou do chodníku, jako by pomáhal řeči, jíž se nechce z okoralého hrdla, a konečně vyrazí syčivým, drsným pološeptem:
 
@@ -288,7 +288,5 @@ Ztrouchnivělé dřevo vzplane navzdory lijáku a promění se v ohni­vý slo
 Nejtek podoben jí podklesne uprostřed druhého kroku a padne tváří do mokrého vřesu. Vzlyky jím zmítají, jako by ho sápalo nějaké zvíře, řve strašlivým pláčem chlapa, který nikdy neplakal.
 
 * * *
-
-_[11](./resources/undefined) Suchý horký vítr. Pozn. red._
-
+[^11]: Suchý horký vítr. Pozn. red.
 </section>
