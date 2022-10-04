@@ -464,5 +464,9 @@ Soudce jde a jde a vidí jen ta otevřená vrata.
 A soudce mlčky přikývne, protože úsilí, aby donesl své břímě, spotřebovává všechnu jeho sílu.
 
 * * *
-[^9]: Zapíjení uzavřené koupě. Pozn. red.[^10] Neotesanec, balík. Pozn. red.
+
+[^9]: Zapíjení uzavřené koupě. Pozn. red.
+
+[^10]: Neotesanec, balík. Pozn. red.
+
 </section>

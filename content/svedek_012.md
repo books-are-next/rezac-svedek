@@ -288,5 +288,7 @@ Ztrouchnivělé dřevo vzplane navzdory lijáku a promění se v ohni­vý slo
 Nejtek podoben jí podklesne uprostřed druhého kroku a padne tváří do mokrého vřesu. Vzlyky jím zmítají, jako by ho sápalo nějaké zvíře, řve strašlivým pláčem chlapa, který nikdy neplakal.
 
 * * *
+
 [^11]: Suchý horký vítr. Pozn. red.
+
 </section>

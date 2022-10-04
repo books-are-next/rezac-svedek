@@ -520,5 +520,7 @@ Soudce chvíli mlčí a dívá se zamyšleně na svého společníka. Nemůže 
 – Zajímavé, ačkoli opravdu trochu samotářské, řekne soudce a ušklíbne se. Škoda, že musím odejít. Dobrou noc.
 
 * * *
+
 [^4]: Špičky prstů. Pozn. red.
+
 </section>

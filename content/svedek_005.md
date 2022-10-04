@@ -487,5 +487,7 @@ Nezjistí nic, co by v něm podnítilo podezření. Ale jeho psi ne­ustávají
 Psi už se této noci neutiší; jejich štěkot vybuchuje přes tu chvíli, jako by noví a noví cizinci vstupovali do Bytně, a neustane, dokud měsíc nezmizí pod obzorem a krátká předjitřní tma neponoří svět v milosrdné bezvědomí.
 
 * * *
+
 [^1]: Člověk bez stálého zaměstnání, hanl. povaleč. Pozn. red.
+
 </section>
