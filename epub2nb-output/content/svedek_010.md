@@ -478,5 +478,9 @@ Ale pak pohlédne do Kvisových očí, otevře se mu černě pod nohama a hlava
 – Já už tedy jdu, zabreptá, pokusí se hmátnout po klobouku, nechá však toho a vyjde potácivě z parčíku.
 
 * * *
-[^7]: Z bronzu. Pozn. red.[^8] Hazardní karetní hráč. _Pozn. red._
+
+[^7]: Z bronzu. Pozn. red.
+
+[^8]: Hazardní karetní hráč. _Pozn. red._
+
 </section>

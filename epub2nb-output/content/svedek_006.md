@@ -381,5 +381,9 @@ Statkář jde k hodinám s kukačkou, posune ručičky na jedenáctou a rozho
 Na dvoře stařík Balchán přičapne k zemi a přitiskne si dlaně na uši.
 
 * * *
-[^2]: Usmyslila si. _Pozn. red._[^3] Pantofle s dřevěnou podrážkou a s horní částí dřevěnou nebo koženou. _Pozn. red._
+
+[^2]: Usmyslila si. _Pozn. red._
+
+[^3]: Pantofle s dřevěnou podrážkou a s horní částí dřevěnou nebo koženou. _Pozn. red._
+
 </section>

@@ -476,5 +476,7 @@ Plášť se rozlétne do stran, jak Kvis rozhodí rukama.
 Havelok zatmí světlý obdélník dveří a pak z něho vypadne jak obraz z rámu. Starosta zavře a stojí ve tmě průjezdu. Slyší z kuchyně třesk rendlíků a zpěv Mariny Tlachačové. Už nikdy, říká si a cítí jistotu těch slov. Leč to mu nestačí. Toto je skončeno, ale co přijde dál? Protože život bude přece pokračovat. Myslí na svou ženu, na niž tak hluboce zapomněl dnes odpoledne, myslí na ni a na snového chlapce, kterého nikdy nepoznal. A chtěl by něco domyslet, je-li to, co se v něm hýbe, ještě myšlenka, prolomit se zdí, která je pevnější tohoto mochnovského zdiva, jež mělo chránit rod před palbou času. Tma by se měla rozevřít a někdo by měl k němu přijít po mostě bledého světla. Ale je příliš unaven únavou, jaké dosud nepoznal, tak unaven, jako by nemohl ani unést vlastní tělo a srdce.
 
 * * *
+
 [^5]: Průvodce. _Pozn. red._
+
 </section>

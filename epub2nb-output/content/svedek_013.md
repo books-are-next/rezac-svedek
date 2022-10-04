@@ -296,5 +296,7 @@ Byteň je čistá a svítí v chladném podzimním slunci jako loď, která vy
 Jen mlýny ženských jazyků melou zrno dějů velkých i malých a mochnovská kašna uprostřed náměstí spřádá svou trojpramennou píseň o čase, který i nejtišší místa na světě nese dál a dál, vstříc novým dnům a novým událostem.
 
 * * *
+
 [^12]: Strnulost (např. při hypnóze, epilepsii apod.). Pozn. red.
+
 </section>

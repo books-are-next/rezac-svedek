@@ -378,5 +378,7 @@ Eleonora ustoupí o krok a v jejích očích je hrůza a v jejím hrdle kř
 A vyběhne plačíc z úřadovny.
 
 * * *
+
 [^6]: Kabát z listru, lehké lesklé vlněné látky. _Pozn. red._
+
 </section>

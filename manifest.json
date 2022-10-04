@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "rezac-svedek-ed9e5c8",
-  "revision": "ed9e5c8",
+  "identifier": "rezac-svedek-4ef65bf",
+  "revision": "4ef65bf",
   "readingOrder": [
     "promo.html",
     "svedek_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:03:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640186600
+    "date": "Tue Oct 04 2022 16:51:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902299789
   },
   "documents": [
     {
@@ -63,9 +63,9 @@
     {
       "title": "KAPITOLA DRUHÁ Bratři",
       "file": "svedek_006.html",
-      "words": 10506,
-      "chars": 61886,
-      "ideas": 179,
+      "words": 10507,
+      "chars": 61881,
+      "ideas": 180,
       "role": "chapter",
       "order": 2,
       "prev": "svedek_005.html",
@@ -143,9 +143,9 @@
     {
       "title": "KAPITOLA ŠESTÁ Všechny cesty vedou na náměstí",
       "file": "svedek_010.html",
-      "words": 12028,
-      "chars": 69183,
-      "ideas": 232,
+      "words": 12029,
+      "chars": 69178,
+      "ideas": 233,
       "role": "chapter",
       "order": 6,
       "prev": "svedek_009.html",
@@ -163,9 +163,9 @@
     {
       "title": "KAPITOLA SEDMÁ Zvon spravedlivého",
       "file": "svedek_011.html",
-      "words": 14729,
-      "chars": 86357,
-      "ideas": 219,
+      "words": 14730,
+      "chars": 86350,
+      "ideas": 220,
       "role": "chapter",
       "order": 7,
       "prev": "svedek_010.html",
@@ -223,9 +223,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 142,
+      "words": 139,
       "chars": 933,
-      "ideas": 18,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "svedek_013.html",
@@ -244,13 +244,13 @@
   "totals": {
     "all": {
       "words": 98333,
-      "chars": 573244,
+      "chars": 573227,
       "ideas": 1819
     },
     "chapters": {
-      "words": 98186,
-      "chars": 572282,
-      "ideas": 1797
+      "words": 98189,
+      "chars": 572265,
+      "ideas": 1800
     }
   }
 }
