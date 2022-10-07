@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "rezac-svedek-b501f9a",
-  "revision": "b501f9a",
+  "identifier": "rezac-svedek-751b1c4",
+  "revision": "751b1c4",
   "readingOrder": [
     "promo.html",
     "svedek_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:03:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924581294
+    "date": "Fri Oct 07 2022 13:54:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150852835
   },
   "documents": [
     {
